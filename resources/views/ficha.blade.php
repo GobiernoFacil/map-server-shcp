@@ -184,6 +184,16 @@
 			</div>
 		</div>
 		-->
+
+    <div v-if="propuesto != null">
+          <!-- pef-->
+          <h3>Presupuesto propuesto para el ppef 2018</h3>
+          <p class="amount right">$<strong>@{{Format(propuesto)}}</strong> <span>MXN</span></p>
+          <div class="bar">
+            <span class="bar inside propuesto" v-bind:style="presupuesto_style"></span>
+          </div>
+    </div>
+
 		<div v-if="aprobado != null">
        		<!-- pef-->
        		<h3>Presupuesto aprobado en el PEF 2017</h3>

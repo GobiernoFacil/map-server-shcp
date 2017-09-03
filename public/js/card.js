@@ -53,11 +53,7 @@ d3.json(DatosGobMxURL)
     d3.csv(GFNotesFile, printComments);
     d3.csv(GFLinksFile, printLinks);
 
-    /*
-    lat         : 22.442167,
-      lng         : -100.110350,
-      zoom        : 5,
-    */
+
     var res    = d.results[0],
         __lat  = 22.442167,
         __lng  = -100.110350,
@@ -70,6 +66,7 @@ d3.json(DatosGobMxURL)
           anios_he         : res["anios-he"],
           ap_materno_admin : res["ap-materno-admin"],
           ap_paterno_admin : res["ap-paterno-admin"],
+          propuesto        : res["monto-ppef"],
           aprobado         : res["aprobado"],
           aprobado2017	   : res["aprobado-pef-2017"],
           avance_fisico : res["avance-fisico"],
