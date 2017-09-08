@@ -787,7 +787,7 @@
 <!-- config -->
 <script>
   var Format         = d3.format(","),
-      GFLinksBaseURL = "https://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=",
+      GFLinksBaseURL = "http://nptp.hacienda.gob.mx/programas/jsp/programas/fichaPrograma.jsp?id=",
       //GFAPIBaseURL   = "https://datos.gob.mx/api/buda/v1/proyectos-opa",
       GFAPIBaseURL   ="https://api.datos.gob.mx/v1/opa",
       GFNotesFile    = "csv/notas.csv",
