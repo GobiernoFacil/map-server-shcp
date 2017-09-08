@@ -4,9 +4,12 @@ ID_PPI,ID_PP,DESC_PP
 '16022100004,02P004,Apoyo a las actividades de seguridad y logística para garantizar la integridad del Ejecutivo Federal
 '16022100005,02P004,Apoyo a las actividades de seguridad y logística para garantizar la integridad del Ejecutivo Federal
 '16022100006,02P004,Apoyo a las actividades de seguridad y logística para garantizar la integridad del Ejecutivo Federal
+'17022100001,02P004,Apoyo a las actividades de seguridad y logística para garantizar la integridad del Ejecutivo Federal
 '16022110002,02P004,Apoyo a las actividades de seguridad y logística para garantizar la integridad del Ejecutivo Federal
+'16048120001,04M001,Actividades de apoyo administrativo
 '0836E000019,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '0836E000020,04K023,Proyectos de infraestructura gubernamental de seguridad pública
+'0936E000002,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '0936E000003,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '0936E000006,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '1036E000003,04K023,Proyectos de infraestructura gubernamental de seguridad pública
@@ -22,11 +25,18 @@ ID_PPI,ID_PP,DESC_PP
 '1604D000004,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '1604D000005,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '1604D000009,04E904,Administración del Sistema Federal Penitenciario
+'1704D000001,04E904,Administración del Sistema Federal Penitenciario
 '1604E2D0001,04M001,Actividades de apoyo administrativo
 '0804B000001,04K015,Proyectos de infraestructura gubernamental de gobernación
 '1404EZN0001,04E002,Preservación y difusión del acervo documental de la Nación
 '1504H000002,04N001,Coordinación del Sistema Nacional de Protección Civil
 '1604H000002,04K028,Estudios de Preinversión
+'1704H000001,04N001,Coordinación del Sistema Nacional de Protección Civil
+'1504I000002,04K015,Proyectos de infraestructura gubernamental de gobernación
+'1504I000003,04E001,Servicios de inteligencia para la Seguridad Nacional
+'1504I000013,04K015,Proyectos de infraestructura gubernamental de gobernación
+'1604I000002,04K015,Proyectos de infraestructura gubernamental de gobernación
+'1604I000004,04K015,Proyectos de infraestructura gubernamental de gobernación
 '1604I000008,04E001,Servicios de inteligencia para la Seguridad Nacional
 '1604I000009,04E001,Servicios de inteligencia para la Seguridad Nacional
 '1604I000010,04E001,Servicios de inteligencia para la Seguridad Nacional
@@ -34,6 +44,8 @@ ID_PPI,ID_PP,DESC_PP
 '1604I000012,04E001,Servicios de inteligencia para la Seguridad Nacional
 '1604I000013,04E001,Servicios de inteligencia para la Seguridad Nacional
 '1604I000014,04E001,Servicios de inteligencia para la Seguridad Nacional
+'1704I000001,04E001,Servicios de inteligencia para la Seguridad Nacional
+'1704I000002,04E001,Servicios de inteligencia para la Seguridad Nacional
 '0804K000004,04K015,Proyectos de infraestructura gubernamental de gobernación
 '1404K000003,04K015,Proyectos de infraestructura gubernamental de gobernación
 '1504K000001,04K015,Proyectos de infraestructura gubernamental de gobernación
@@ -41,6 +53,7 @@ ID_PPI,ID_PP,DESC_PP
 '1504K000003,04K015,Proyectos de infraestructura gubernamental de gobernación
 '1504K000004,04K027,Mantenimiento de infraestructura
 '0736C000010,04K023,Proyectos de infraestructura gubernamental de seguridad pública
+'0936F000002,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '1504L000001,04K023,Proyectos de infraestructura gubernamental de seguridad pública
 '1504L000002,04E903,Operativos para la prevención y disuasión del delito
 '1504L000003,04E903,Operativos para la prevención y disuasión del delito
@@ -59,21 +72,13 @@ ID_PPI,ID_PP,DESC_PP
 '1604L000005,04K027,Mantenimiento de infraestructura
 '1604L000006,04E903,Operativos para la prevención y disuasión del delito
 '1604L000007,04E903,Operativos para la prevención y disuasión del delito
+'1704L000001,04E903,Operativos para la prevención y disuasión del delito
 '1604Q000001,04E004,Producción de programas informativos de radio y televisión del Ejecutivo Federal
 '1604W000001,04M001,Actividades de apoyo administrativo
 '06056130001,05K025,Proyectos de inmuebles (oficinas administrativas)
+'16056130001,05E002,"Atención, protección, servicios y asistencia consulares"
+'16056130001,05P002,"Diseño, conducción y ejecución de la política exterior"
 '16062000001,06P003,Diseño y aplicación de la política económica
-'15067120001,06B001,"Producción de impresos valorados, no valorados, numerados y de seguridad"
-'15067120001,06E003,Administración de los fondos y valores federales
-'15067120001,06E008,"Administración, restauración y difusión del acervo patrimonial y documental de la SHCP"
-'15067120001,06G001,Regulación del sector financiero
-'15067120001,06G002,Detección y prevención de ilícitos financieros
-'15067120001,06M001,Actividades de apoyo administrativo
-'15067120001,06O001,Actividades de apoyo a la función pública y buen gobierno
-'15067120001,06P001,Diseño de la política de ingresos
-'15067120001,06P002,Diseño y conducción de la política de gasto público
-'15067120001,06P003,Diseño y aplicación de la política económica
-'15067120001,06P004,Asesoría jurídica y representación judicial y administrativa de la SHCP
 '15067120003,06B001,"Producción de impresos valorados, no valorados, numerados y de seguridad"
 '15067120003,06E003,Administración de los fondos y valores federales
 '15067120003,06E008,"Administración, restauración y difusión del acervo patrimonial y documental de la SHCP"
@@ -88,25 +93,29 @@ ID_PPI,ID_PP,DESC_PP
 '15067120006,06K027,Mantenimiento de infraestructura
 '16067120001,06K028,Estudios de Preinversión
 '16067120002,06K027,Mantenimiento de infraestructura
+'17067150001,06E008,"Administración, restauración y difusión del acervo patrimonial y documental de la SHCP"
 '1127A000004,06K024,Otros proyectos de infraestructura gubernamental
 '1227A000011,06K024,Otros proyectos de infraestructura gubernamental
 '1327A000001,06K027,Mantenimiento de infraestructura
 '1427A000008,06K028,Estudios de Preinversión
+'1427A000018,06K027,Mantenimiento de infraestructura
 '1427A000024,06K028,Estudios de Preinversión
 '1427A000025,06K028,Estudios de Preinversión
 '1427A000029,06K028,Estudios de Preinversión
 '1427A000033,06K028,Estudios de Preinversión
 '1427A000035,06K028,Estudios de Preinversión
+'1527A000006,06O007,Optimización de los inmuebles federales y valuación de los bienes nacionales
 '1627A000002,06K024,Otros proyectos de infraestructura gubernamental
 '1627A000003,06K024,Otros proyectos de infraestructura gubernamental
-'1506E000003,06NRPP,No requiere programa presupuestario
+'1627A000012,06O007,Optimización de los inmuebles federales y valuación de los bienes nacionales
+'1406E000001,06K028,Estudios de Preinversión
 '1506E000005,06E026,Recaudación de las contribuciones federales
-'1606E000001,06NRPP,No requiere programa presupuestario
 '1606E000002,06E026,Recaudación de las contribuciones federales
 '1606E000003,06E026,Recaudación de las contribuciones federales
 '1606E000004,06K025,Proyectos de inmuebles (oficinas administrativas)
 '1706E000001,06K024,Otros proyectos de infraestructura gubernamental
 '1706E000002,06K024,Otros proyectos de infraestructura gubernamental
+'1706G0N0001,06F007,Operación de financiamiento para la exportación
 '1606G1C0003,06E019,Servicios financieros complementarios
 '1606G1C0004,06E019,Servicios financieros complementarios
 '1306G1H0006,06K024,Otros proyectos de infraestructura gubernamental
@@ -132,14 +141,18 @@ ID_PPI,ID_PP,DESC_PP
 '1606HBW0003,06K027,Mantenimiento de infraestructura
 '1606HBW0004,06F034,Operación de crédito y garantías al sector rural y pesquero
 '1606HBW0005,06K025,Proyectos de inmuebles (oficinas administrativas)
+'1706HBW0001,06F034,Operación de crédito y garantías al sector rural y pesquero
 '1606HHN0001,06M001,Actividades de apoyo administrativo
 '1606HIU0001,06M001,Actividades de apoyo administrativo
 '1606HJO0001,06E015,Servicios financieros y captación de recursos
 '1606HJO0002,06E015,Servicios financieros y captación de recursos
 '1606HJY0002,06B003,Comercialización de juegos y productos
 '1606HJY0003,06B003,Comercialización de juegos y productos
+'1706HJY0001,06B003,Comercialización de juegos y productos
 '1506HKA0002,06K024,Otros proyectos de infraestructura gubernamental
+'1606HKA0002,06E032,Administración y enajenación de activos
 '1606HKA0004,06E032,Administración y enajenación de activos
+'1706HKA0001,06E032,Administración y enajenación de activos
 '1706HKI0001,06M001,Actividades de apoyo administrativo
 '09071100002,07A015,Producción de árboles en viveros forestales militares
 '14071100016,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
@@ -155,6 +168,8 @@ ID_PPI,ID_PP,DESC_PP
 '15071100020,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071100022,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071100024,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'15071100033,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'15071100033,07M001,Actividades de apoyo administrativo
 '15071100036,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071100036,07M001,Actividades de apoyo administrativo
 '16071100001,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
@@ -177,6 +192,7 @@ ID_PPI,ID_PP,DESC_PP
 '16071100018,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100019,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100020,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'16071100020,07M001,Actividades de apoyo administrativo
 '16071100021,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100022,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100023,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
@@ -189,8 +205,6 @@ ID_PPI,ID_PP,DESC_PP
 '16071100030,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100031,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100032,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
-'16071100033,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
-'16071100033,07M001,Actividades de apoyo administrativo
 '16071100034,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100035,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071100035,07M001,Actividades de apoyo administrativo
@@ -201,26 +215,36 @@ ID_PPI,ID_PP,DESC_PP
 '17071100002,07M001,Actividades de apoyo administrativo
 '17071100003,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '17071100003,07M001,Actividades de apoyo administrativo
+'17071100020,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'17071100020,07A025,Fortalecimiento del sistema de inteligencia militar
+'17071100020,07M001,Actividades de apoyo administrativo
+'17071100022,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'17071100022,07M001,Actividades de apoyo administrativo
+'17071100023,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'15071110001,07A025,Fortalecimiento del sistema de inteligencia militar
 '15071110002,07A025,Fortalecimiento del sistema de inteligencia militar
 '16071110002,07A025,Fortalecimiento del sistema de inteligencia militar
-'16071110003,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
-'16071110004,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071110005,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071110005,07A004,Programa de Seguridad Pública de la Secretaría de la Defensa Nacional
 '16071110005,07M001,Actividades de apoyo administrativo
-'12071120004,07NRPP,No requiere programa presupuestario
 '12071120007,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '14071120001,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '14071120003,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '14071120008,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '15071120001,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '15071120002,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
+'15071120002,07A022,"Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior. "
 '15071120003,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '15071120005,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '15071120006,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '16071120002,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '16071120005,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
+'16071120005,07A022,"Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior. "
 '16071120007,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
+'17071120001,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
+'17071120002,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
+'17071120002,07A022,"Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior. "
+'17071120003,07A001,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios"
 '16071130001,07A018,"Investigación, desarrollo y producción de vestuario y equipo militar y mantenimiento de infraestructura"
 '16071130002,07A018,"Investigación, desarrollo y producción de vestuario y equipo militar y mantenimiento de infraestructura"
 '17071130001,07A018,"Investigación, desarrollo y producción de vestuario y equipo militar y mantenimiento de infraestructura"
@@ -259,6 +283,7 @@ ID_PPI,ID_PP,DESC_PP
 '09071170013,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '09071170014,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '14071170004,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
+'14071170009,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '14071170011,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '14071170012,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '14071170013,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
@@ -275,13 +300,19 @@ ID_PPI,ID_PP,DESC_PP
 '17071170002,07K014,Otros proyectos de infraestructura social
 '17071170003,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '17071170004,07A019,Mantenimiento y conservación de la infraestructura militar y maquinaria pesada y administración inmobiliaria
+'17071170005,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
+'17071170006,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
+'17071170007,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
+'17071170008,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '13071200010,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '13071200010,07A025,Fortalecimiento del sistema de inteligencia militar
 '15071200004,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071200004,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071200004,07A019,Mantenimiento y conservación de la infraestructura militar y maquinaria pesada y administración inmobiliaria
+'15071200005,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071200007,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071200008,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'15071200012,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071200014,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071200014,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071200014,07A019,Mantenimiento y conservación de la infraestructura militar y maquinaria pesada y administración inmobiliaria
@@ -301,6 +332,7 @@ ID_PPI,ID_PP,DESC_PP
 '16071200008,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071200009,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071200010,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'16071200010,07A019,Mantenimiento y conservación de la infraestructura militar y maquinaria pesada y administración inmobiliaria
 '16071200011,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '17071200001,07K019,Proyectos de infraestructura gubernamental de seguridad nacional
 '07071320002,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
@@ -316,7 +348,6 @@ ID_PPI,ID_PP,DESC_PP
 '15071320001,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071320002,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071320003,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
-'15071320007,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071320011,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071320012,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071320014,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
@@ -325,6 +356,7 @@ ID_PPI,ID_PP,DESC_PP
 '16071320007,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '16071320008,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '17071320001,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'17071320003,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071360001,07A020,Programa de justicia militar
 '15071360002,07A020,Programa de justicia militar
 '15071380002,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
@@ -338,6 +370,7 @@ ID_PPI,ID_PP,DESC_PP
 '15071400001,07M001,Actividades de apoyo administrativo
 '16071400001,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '16071400002,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'17071400002,07M001,Actividades de apoyo administrativo
 '15071410002,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
 '15071410002,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
 '15071410002,07A004,Programa de Seguridad Pública de la Secretaría de la Defensa Nacional
@@ -355,6 +388,22 @@ ID_PPI,ID_PP,DESC_PP
 '15071410003,07A900,Programa de igualdad entre mujeres y hombres SDN
 '15071410003,07M001,Actividades de apoyo administrativo
 '17071410001,07M001,Actividades de apoyo administrativo
+'17071410002,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'17071410002,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'17071410002,07A004,Programa de Seguridad Pública de la Secretaría de la Defensa Nacional
+'17071410002,07A009,Programa de sanidad militar
+'17071410002,07A021,Sistema educativo militar
+'17071410002,07A022,"Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior. "
+'17071410002,07A900,Programa de igualdad entre mujeres y hombres SDN
+'17071410002,07M001,Actividades de apoyo administrativo
+'17071410003,07A002,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional"
+'17071410003,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'17071410003,07A004,Programa de Seguridad Pública de la Secretaría de la Defensa Nacional
+'17071410003,07A009,Programa de sanidad militar
+'17071410003,07A021,Sistema educativo militar
+'17071410003,07A022,"Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior. "
+'17071410003,07A900,Programa de igualdad entre mujeres y hombres SDN
+'17071410003,07M001,Actividades de apoyo administrativo
 '1507HXA0014,07K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1507HXA0040,07K027,Mantenimiento de infraestructura
 '1507HXA0042,07K012,Proyectos de infraestructura social de asistencia y seguridad social
@@ -395,11 +444,16 @@ ID_PPI,ID_PP,DESC_PP
 '1707HXA0001,07K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1707HXA0002,07K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1707HXA0003,07K027,Mantenimiento de infraestructura
+'1707HXA0004,07K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1707HXA0005,07K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1707HXA0006,07M001,Actividades de apoyo administrativo
 '15081360001,08K024,Otros proyectos de infraestructura gubernamental
 '15081360002,08K024,Otros proyectos de infraestructura gubernamental
+'15085120001,08K027,Mantenimiento de infraestructura
 '1008B000001,08K024,Otros proyectos de infraestructura gubernamental
 '1608C000001,08M001,Actividades de apoyo administrativo
 '1608C000002,08M001,Actividades de apoyo administrativo
+'1608D000001,08E001,Desarrollo y aplicación de programas educativos en materia agropecuaria
 '1608D000001,08M001,Actividades de apoyo administrativo
 '1608D000002,08K027,Mantenimiento de infraestructura
 '1608D000003,08E001,Desarrollo y aplicación de programas educativos en materia agropecuaria
@@ -415,13 +469,14 @@ ID_PPI,ID_PP,DESC_PP
 '1508I000001,08K027,Mantenimiento de infraestructura
 '1508I000002,08K028,Estudios de Preinversión
 '1508I000003,08K028,Estudios de Preinversión
-'1608I000001,08K027,Mantenimiento de infraestructura
 '1608I000002,08K027,Mantenimiento de infraestructura
 '1608I000003,08K027,Mantenimiento de infraestructura
 '1608I000004,08K027,Mantenimiento de infraestructura
 '1608I000005,08K024,Otros proyectos de infraestructura gubernamental
-'1608I000006,08K027,Mantenimiento de infraestructura
+'0908IZC0007,08K009,Proyectos de infraestructura social de educación
 '1708IZC0001,08K009,Proyectos de infraestructura social de educación
+'1708JAG0001,08E006,Generación de Proyectos de Investigación
+'1708JBK0001,08B001,Producción y comercialización de Biológicos Veterinarios
 '1208RJL0001,08E006,Generación de Proyectos de Investigación
 '12092100007,09K003,Proyectos de construcción de carreteras
 '14092100005,09K003,Proyectos de construcción de carreteras
@@ -430,6 +485,7 @@ ID_PPI,ID_PP,DESC_PP
 '16092100003,09K039,Estudios y proyectos de construcción de caminos rurales y carreteras alimentadoras
 '16092100004,09K037,Conservación de infraestructura de caminos rurales y carreteras alimentadoras
 '16092100005,09K048,Servicios relacionados para la liberación del derecho de vía
+'17092100002,09K048,Servicios relacionados para la liberación del derecho de vía
 '10092110001,09K032,Reconstrucción y Conservación de Carreteras
 '10092110010,09K032,Reconstrucción y Conservación de Carreteras
 '11092110001,09K032,Reconstrucción y Conservación de Carreteras
@@ -454,7 +510,6 @@ ID_PPI,ID_PP,DESC_PP
 '13093110003,09K041,Sistema de Transporte Colectivo
 '13093110005,09K040,Proyectos de Infraestructura Ferroviaria
 '13093110008,09K040,Proyectos de Infraestructura Ferroviaria
-'14093110001,09NRPP,No requiere programa presupuestario
 '14093110005,09K040,Proyectos de Infraestructura Ferroviaria
 '14093110006,09K028,Estudios de Preinversión
 '14093110007,09K028,Estudios de Preinversión
@@ -467,12 +522,18 @@ ID_PPI,ID_PP,DESC_PP
 '14093110018,09K040,Proyectos de Infraestructura Ferroviaria
 '15093110001,09K040,Proyectos de Infraestructura Ferroviaria
 '15093110004,09K041,Sistema de Transporte Colectivo
-'15093110005,09NRPP,No requiere programa presupuestario
-'16093110001,09NRPP,No requiere programa presupuestario
 '09094000001,09K045,Sistema Satelital
 '16094140001,09P001,"Definición, conducción y supervisión de la política de comunicaciones y transportes"
 '16094140002,09P001,"Definición, conducción y supervisión de la política de comunicaciones y transportes"
 '16094140003,09P001,"Definición, conducción y supervisión de la política de comunicaciones y transportes"
+'17094140001,09P001,"Definición, conducción y supervisión de la política de comunicaciones y transportes"
+'08095100009,09K003,Proyectos de construcción de carreteras
+'08095100009,09K004,Proyectos de construcción de puertos
+'08095100009,09K005,Proyectos de construcción de aeropuertos
+'08095100009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'08095100009,09K040,Proyectos de Infraestructura Ferroviaria
+'08095100009,09K041,Sistema de Transporte Colectivo
+'08095100009,09K048,Servicios relacionados para la liberación del derecho de vía
 '11095100001,09K004,Proyectos de construcción de puertos
 '12095100001,09K004,Proyectos de construcción de puertos
 '12095100003,09K004,Proyectos de construcción de puertos
@@ -501,7 +562,9 @@ ID_PPI,ID_PP,DESC_PP
 '11096210013,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096210015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096210005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'13096210002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096210002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096210010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096210013,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '15096210001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '15096210002,09K003,Proyectos de construcción de carreteras
@@ -510,16 +573,21 @@ ID_PPI,ID_PP,DESC_PP
 '06096220004,09K003,Proyectos de construcción de carreteras
 '06096220004,09K048,Servicios relacionados para la liberación del derecho de vía
 '07096220005,09K003,Proyectos de construcción de carreteras
+'07096220005,09K048,Servicios relacionados para la liberación del derecho de vía
 '08096220002,09K003,Proyectos de construcción de carreteras
 '08096220002,09K048,Servicios relacionados para la liberación del derecho de vía
 '09096220001,09K003,Proyectos de construcción de carreteras
+'09096220001,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096220003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096220004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096220002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096220007,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096220013,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096220024,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096220002,09K003,Proyectos de construcción de carreteras
+'14096220002,09K048,Servicios relacionados para la liberación del derecho de vía
 '07096230004,09K003,Proyectos de construcción de carreteras
+'07096230004,09K048,Servicios relacionados para la liberación del derecho de vía
 '09096230003,09K003,Proyectos de construcción de carreteras
 '11096230002,09K003,Proyectos de construcción de carreteras
 '12096230004,09K003,Proyectos de construcción de carreteras
@@ -527,18 +595,27 @@ ID_PPI,ID_PP,DESC_PP
 '12096230005,09K003,Proyectos de construcción de carreteras
 '12096230005,09K048,Servicios relacionados para la liberación del derecho de vía
 '12096230006,09K003,Proyectos de construcción de carreteras
+'12096230006,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096230002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096240002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096240003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096240002,09K003,Proyectos de construcción de carreteras
+'11096240002,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096240003,09K003,Proyectos de construcción de carreteras
+'11096240003,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096240005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096240002,09K003,Proyectos de construcción de carreteras
 '15096240001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'15096240002,09K003,Proyectos de construcción de carreteras
+'15096240002,09K048,Servicios relacionados para la liberación del derecho de vía
 '16096240001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'17096240001,09K003,Proyectos de construcción de carreteras
+'17096240001,09K048,Servicios relacionados para la liberación del derecho de vía
 '10096250008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096250001,09K003,Proyectos de construcción de carreteras
+'11096250001,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096250003,09K003,Proyectos de construcción de carreteras
+'13096250003,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096250007,09K003,Proyectos de construcción de carreteras
 '13096250007,09K048,Servicios relacionados para la liberación del derecho de vía
 '14096250003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -553,6 +630,7 @@ ID_PPI,ID_PP,DESC_PP
 '16096260001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '05096270009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '06096270013,09K003,Proyectos de construcción de carreteras
+'06096270013,09K048,Servicios relacionados para la liberación del derecho de vía
 '06096270014,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '07096270002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '07096270003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -608,12 +686,14 @@ ID_PPI,ID_PP,DESC_PP
 '09096280006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '09096280008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096280004,09K003,Proyectos de construcción de carreteras
+'10096280004,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096280004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096280005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096280006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096280007,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096280009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096280001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'12096280004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096280013,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096280016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096280018,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -622,8 +702,12 @@ ID_PPI,ID_PP,DESC_PP
 '14096280001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096280002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096280003,09K040,Proyectos de Infraestructura Ferroviaria
+'05096300002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '06096300001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'08096300006,09K003,Proyectos de construcción de carreteras
+'08096300006,09K048,Servicios relacionados para la liberación del derecho de vía
 '08096300008,09K003,Proyectos de construcción de carreteras
+'08096300008,09K048,Servicios relacionados para la liberación del derecho de vía
 '09096300004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096300008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096300004,09K003,Proyectos de construcción de carreteras
@@ -654,8 +738,11 @@ ID_PPI,ID_PP,DESC_PP
 '05096310003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096310001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096310010,09K003,Proyectos de construcción de carreteras
+'11096310010,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096310011,09K003,Proyectos de construcción de carreteras
+'11096310011,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096310013,09K003,Proyectos de construcción de carreteras
+'11096310013,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096310025,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096310027,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096310003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -665,6 +752,7 @@ ID_PPI,ID_PP,DESC_PP
 '12096310016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096310020,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096310020,09K003,Proyectos de construcción de carreteras
+'13096310020,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096310021,09K003,Proyectos de construcción de carreteras
 '14096310002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096310003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -673,17 +761,26 @@ ID_PPI,ID_PP,DESC_PP
 '14096310015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096310016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096310017,09K003,Proyectos de construcción de carreteras
+'14096310017,09K048,Servicios relacionados para la liberación del derecho de vía
 '16096310002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '16096310003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '16096310005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'16096310006,09K003,Proyectos de construcción de carreteras
+'16096310006,09K048,Servicios relacionados para la liberación del derecho de vía
 '16096310007,09K003,Proyectos de construcción de carreteras
 '16096310007,09K048,Servicios relacionados para la liberación del derecho de vía
 '16096310008,09K003,Proyectos de construcción de carreteras
+'16096310008,09K048,Servicios relacionados para la liberación del derecho de vía
+'16096310009,09K003,Proyectos de construcción de carreteras
+'16096310009,09K048,Servicios relacionados para la liberación del derecho de vía
 '16096310010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '17096310001,09K003,Proyectos de construcción de carreteras
+'17096310001,09K048,Servicios relacionados para la liberación del derecho de vía
 '17096310002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '17096310003,09K003,Proyectos de construcción de carreteras
 '17096310003,09K048,Servicios relacionados para la liberación del derecho de vía
+'17096310004,09K003,Proyectos de construcción de carreteras
+'17096310004,09K048,Servicios relacionados para la liberación del derecho de vía
 '05096320001,09K003,Proyectos de construcción de carreteras
 '05096320001,09K048,Servicios relacionados para la liberación del derecho de vía
 '05096320004,09K003,Proyectos de construcción de carreteras
@@ -714,10 +811,12 @@ ID_PPI,ID_PP,DESC_PP
 '11096320012,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096320015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096320012,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'12096320018,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096320003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096320005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096320010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096320014,09K003,Proyectos de construcción de carreteras
+'14096320012,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096320014,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096320017,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096320020,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -764,6 +863,7 @@ ID_PPI,ID_PP,DESC_PP
 '11096330004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096330005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096330021,09K003,Proyectos de construcción de carreteras
+'11096330021,09K048,Servicios relacionados para la liberación del derecho de vía
 '12096330014,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096330015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096330025,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -774,6 +874,7 @@ ID_PPI,ID_PP,DESC_PP
 '14096330008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096330017,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096330020,09K003,Proyectos de construcción de carreteras
+'14096330021,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '15096330001,09K003,Proyectos de construcción de carreteras
 '05096340009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '06096340008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -783,11 +884,11 @@ ID_PPI,ID_PP,DESC_PP
 '09096340024,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096340015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096340016,09K003,Proyectos de construcción de carreteras
+'10096340016,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096340001,09K003,Proyectos de construcción de carreteras
 '11096340001,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096340005,09K003,Proyectos de construcción de carreteras
 '11096340005,09K048,Servicios relacionados para la liberación del derecho de vía
-'11096340006,09NRPP,No requiere programa presupuestario
 '11096340009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096340013,09K003,Proyectos de construcción de carreteras
 '11096340013,09K048,Servicios relacionados para la liberación del derecho de vía
@@ -803,18 +904,26 @@ ID_PPI,ID_PP,DESC_PP
 '13096340008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096340014,09K003,Proyectos de construcción de carreteras
 '14096340001,09K003,Proyectos de construcción de carreteras
+'14096340001,09K048,Servicios relacionados para la liberación del derecho de vía
 '14096340002,09K003,Proyectos de construcción de carreteras
+'14096340003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096340006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096340010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '15096340001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '15096340002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'17096340001,09K003,Proyectos de construcción de carreteras
+'17096340001,09K048,Servicios relacionados para la liberación del derecho de vía
 '09096350016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096350023,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096350027,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096350045,09K003,Proyectos de construcción de carreteras
+'10096350045,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096350008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096350002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096350033,09K003,Proyectos de construcción de carreteras
+'12096350033,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096350036,09K003,Proyectos de construcción de carreteras
+'12096350036,09K048,Servicios relacionados para la liberación del derecho de vía
 '12096350045,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096350071,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096350004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -839,6 +948,8 @@ ID_PPI,ID_PP,DESC_PP
 '10096360017,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096360030,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '10096360031,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'10096360032,09K003,Proyectos de construcción de carreteras
+'10096360032,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096360005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096360008,09K003,Proyectos de construcción de carreteras
 '11096360009,09K003,Proyectos de construcción de carreteras
@@ -889,9 +1000,12 @@ ID_PPI,ID_PP,DESC_PP
 '12096380006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096380022,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096380002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096380004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096380005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096380007,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096380009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096380010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096380011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '16096380001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '05096390002,09K003,Proyectos de construcción de carreteras
 '05096390016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -905,6 +1019,8 @@ ID_PPI,ID_PP,DESC_PP
 '12096390009,09K041,Sistema de Transporte Colectivo
 '12096390014,09K003,Proyectos de construcción de carreteras
 '12096390016,09K003,Proyectos de construcción de carreteras
+'12096390017,09K003,Proyectos de construcción de carreteras
+'12096390017,09K048,Servicios relacionados para la liberación del derecho de vía
 '12096390018,09K003,Proyectos de construcción de carreteras
 '12096390019,09K003,Proyectos de construcción de carreteras
 '12096390020,09K003,Proyectos de construcción de carreteras
@@ -917,6 +1033,10 @@ ID_PPI,ID_PP,DESC_PP
 '14096390001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096390002,09K003,Proyectos de construcción de carreteras
 '15096390001,09K003,Proyectos de construcción de carreteras
+'17096390001,09K003,Proyectos de construcción de carreteras
+'17096390001,09K048,Servicios relacionados para la liberación del derecho de vía
+'17096390002,09K003,Proyectos de construcción de carreteras
+'17096390002,09K048,Servicios relacionados para la liberación del derecho de vía
 '05096400010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '05096400011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '05096400014,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -970,9 +1090,13 @@ ID_PPI,ID_PP,DESC_PP
 '12096400030,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096400041,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096400043,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'12096400045,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096400003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096400006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'13096400008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096400009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'13096400011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096400002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096400003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096400005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096400006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -990,15 +1114,17 @@ ID_PPI,ID_PP,DESC_PP
 '17096400002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '08096410018,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '09096410023,09K003,Proyectos de construcción de carreteras
+'09096410023,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096410019,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096410042,09K003,Proyectos de construcción de carreteras
+'12096410042,09K048,Servicios relacionados para la liberación del derecho de vía
 '12096410043,09K003,Proyectos de construcción de carreteras
+'12096410043,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096410033,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096410001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096410002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096410010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096410013,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
-'14096410014,09NRPP,No requiere programa presupuestario
 '14096410015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096410016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096410017,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1006,6 +1132,7 @@ ID_PPI,ID_PP,DESC_PP
 '16096410002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '16096410003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '17096410001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'17096410002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '05096420011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '06096420001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '09096420007,09K003,Proyectos de construcción de carreteras
@@ -1024,6 +1151,7 @@ ID_PPI,ID_PP,DESC_PP
 '11096440001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096440002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096440003,09K003,Proyectos de construcción de carreteras
+'11096440003,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096440015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096440021,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096440010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1034,8 +1162,13 @@ ID_PPI,ID_PP,DESC_PP
 '13096440023,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096440025,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096440027,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096440002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096440007,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096440008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096440009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096440010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096440011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096440012,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096440013,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096440014,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096440016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1044,6 +1177,9 @@ ID_PPI,ID_PP,DESC_PP
 '16096440002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '16096440003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '17096440001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'17096440002,09K003,Proyectos de construcción de carreteras
+'17096440002,09K048,Servicios relacionados para la liberación del derecho de vía
+'17096440003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '05096450004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '07096450009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '08096450007,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1057,6 +1193,8 @@ ID_PPI,ID_PP,DESC_PP
 '11096450015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096450002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096450010,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'12096450020,09K003,Proyectos de construcción de carreteras
+'12096450020,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096450006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096450019,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096450011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1068,16 +1206,20 @@ ID_PPI,ID_PP,DESC_PP
 '16096450002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096460001,09K003,Proyectos de construcción de carreteras
 '11096460012,09K003,Proyectos de construcción de carreteras
+'11096460012,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096460013,09K003,Proyectos de construcción de carreteras
+'11096460013,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096460016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096460003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096460006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '06096470004,09K003,Proyectos de construcción de carreteras
 '06096470004,09K048,Servicios relacionados para la liberación del derecho de vía
 '06096470005,09K003,Proyectos de construcción de carreteras
+'06096470005,09K048,Servicios relacionados para la liberación del derecho de vía
 '08096470002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096470004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096470009,09K003,Proyectos de construcción de carreteras
+'12096470009,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096470001,09K003,Proyectos de construcción de carreteras
 '13096470001,09K048,Servicios relacionados para la liberación del derecho de vía
 '05096480002,09K003,Proyectos de construcción de carreteras
@@ -1086,12 +1228,16 @@ ID_PPI,ID_PP,DESC_PP
 '11096480003,09K003,Proyectos de construcción de carreteras
 '11096480005,09K003,Proyectos de construcción de carreteras
 '11096480005,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096480008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096480001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096480002,09K003,Proyectos de construcción de carreteras
 '11096490002,09K003,Proyectos de construcción de carreteras
+'11096490002,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096490009,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096490024,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096490008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'13096490001,09K003,Proyectos de construcción de carreteras
+'13096490001,09K048,Servicios relacionados para la liberación del derecho de vía
 '14096490003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096490008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '16096490001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1116,6 +1262,7 @@ ID_PPI,ID_PP,DESC_PP
 '11096500015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096500016,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096500018,09K003,Proyectos de construcción de carreteras
+'11096500018,09K048,Servicios relacionados para la liberación del derecho de vía
 '12096500005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096500011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '12096500014,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1135,7 +1282,6 @@ ID_PPI,ID_PP,DESC_PP
 '13096500020,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096500022,09K003,Proyectos de construcción de carreteras
 '14096500001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
-'14096500002,09NRPP,No requiere programa presupuestario
 '14096500004,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096500005,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096500008,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1149,6 +1295,8 @@ ID_PPI,ID_PP,DESC_PP
 '14096500030,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096500031,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096500040,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'14096500042,09K003,Proyectos de construcción de carreteras
+'14096500042,09K048,Servicios relacionados para la liberación del derecho de vía
 '14096500046,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096500047,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096500048,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1166,17 +1314,25 @@ ID_PPI,ID_PP,DESC_PP
 '16096500012,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '16096500013,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '17096500001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'17096500002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+'17096500003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '08096510001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096510001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '11096510002,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '13096510002,09K003,Proyectos de construcción de carreteras
 '13096510002,09K048,Servicios relacionados para la liberación del derecho de vía
+'14096510001,09K003,Proyectos de construcción de carreteras
+'14096510001,09K048,Servicios relacionados para la liberación del derecho de vía
+'16096510001,09K003,Proyectos de construcción de carreteras
+'16096510001,09K048,Servicios relacionados para la liberación del derecho de vía
 '05096520006,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '05096520011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '06096520017,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '07096520010,09K003,Proyectos de construcción de carreteras
+'07096520010,09K048,Servicios relacionados para la liberación del derecho de vía
 '07096520011,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '09096520013,09K003,Proyectos de construcción de carreteras
+'09096520013,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096520003,09K003,Proyectos de construcción de carreteras
 '11096520003,09K048,Servicios relacionados para la liberación del derecho de vía
 '11096520026,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1194,6 +1350,7 @@ ID_PPI,ID_PP,DESC_PP
 '13096520013,09K003,Proyectos de construcción de carreteras
 '13096520013,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096520014,09K003,Proyectos de construcción de carreteras
+'13096520014,09K048,Servicios relacionados para la liberación del derecho de vía
 '13096520015,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096520001,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
 '14096520003,09K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
@@ -1230,17 +1387,21 @@ ID_PPI,ID_PP,DESC_PP
 '1409C000001,09E010,Servicios de ayudas a la navegación aérea
 '1509C000001,09K027,Mantenimiento de infraestructura
 '1609C000001,09K005,Proyectos de construcción de aeropuertos
+'1709D000001,09K028,Estudios de Preinversión
+'1409J0U0006,09K032,Reconstrucción y Conservación de Carreteras
 '1609J0U0001,09K032,Reconstrucción y Conservación de Carreteras
 '1609J0U0002,09K032,Reconstrucción y Conservación de Carreteras
 '1609J0U0003,09K032,Reconstrucción y Conservación de Carreteras
 '1609J0U0004,09K032,Reconstrucción y Conservación de Carreteras
 '0809J2P0002,09K004,Proyectos de construcción de puertos
 '1609J2P0001,09K027,Mantenimiento de infraestructura
+'0809J2R0003,09K004,Proyectos de construcción de puertos
 '1409J2R0001,09K004,Proyectos de construcción de puertos
 '1509J2R0001,09K028,Estudios de Preinversión
 '1609J2R0001,09E008,Operación de infraestructura marítimo portuaria
 '1609J2R0002,09K004,Proyectos de construcción de puertos
 '1609J2R0003,09K027,Mantenimiento de infraestructura
+'1709J2R0001,09K027,Mantenimiento de infraestructura
 '1209J2T0003,09K004,Proyectos de construcción de puertos
 '1609J2T0001,09K004,Proyectos de construcción de puertos
 '1609J2T0002,09K027,Mantenimiento de infraestructura
@@ -1252,17 +1413,22 @@ ID_PPI,ID_PP,DESC_PP
 '1409J2V0001,09K004,Proyectos de construcción de puertos
 '1509J2W0001,09K028,Estudios de Preinversión
 '1609J2W0002,09K027,Mantenimiento de infraestructura
+'1709J2W0001,09K027,Mantenimiento de infraestructura
 '1609J2X0002,09K027,Mantenimiento de infraestructura
 '1309J2Y0011,09K004,Proyectos de construcción de puertos
 '1309J2Y0014,09K004,Proyectos de construcción de puertos
 '1409J2Y0002,09K004,Proyectos de construcción de puertos
 '1409J2Y0003,09K004,Proyectos de construcción de puertos
+'1409J2Y0004,09K028,Estudios de Preinversión
 '1509J2Y0001,09K027,Mantenimiento de infraestructura
 '1509J2Y0002,09K027,Mantenimiento de infraestructura
+'1509J2Y0003,09K004,Proyectos de construcción de puertos
 '1609J2Y0001,09E008,Operación de infraestructura marítimo portuaria
 '1709J2Y0001,09K004,Proyectos de construcción de puertos
+'1709J2Y0002,09E008,Operación de infraestructura marítimo portuaria
 '1109J2Z0002,09K004,Proyectos de construcción de puertos
 '1209J2Z0001,09K004,Proyectos de construcción de puertos
+'1709J2Z0001,09K027,Mantenimiento de infraestructura
 '0309J3A0002,09K004,Proyectos de construcción de puertos
 '1309J3A0003,09K004,Proyectos de construcción de puertos
 '1409J3A0003,09K004,Proyectos de construcción de puertos
@@ -1271,12 +1437,16 @@ ID_PPI,ID_PP,DESC_PP
 '1609J3A0004,09K004,Proyectos de construcción de puertos
 '1709J3A0001,09K004,Proyectos de construcción de puertos
 '1709J3A0002,09E008,Operación de infraestructura marítimo portuaria
+'1709J3A0003,09E008,Operación de infraestructura marítimo portuaria
+'1709J3A0004,09K004,Proyectos de construcción de puertos
 '1409J3B0007,09K004,Proyectos de construcción de puertos
+'1509J3B0001,09E008,Operación de infraestructura marítimo portuaria
 '1509J3B0003,09K004,Proyectos de construcción de puertos
 '1609J3B0001,09E008,Operación de infraestructura marítimo portuaria
 '1609J3B0004,09K004,Proyectos de construcción de puertos
 '1609J3B0005,09K027,Mantenimiento de infraestructura
 '1609J3B0006,09K004,Proyectos de construcción de puertos
+'1709J3B0001,09K027,Mantenimiento de infraestructura
 '1309J3C0002,09E008,Operación de infraestructura marítimo portuaria
 '1409J3C0003,09K027,Mantenimiento de infraestructura
 '1409J3C0004,09K004,Proyectos de construcción de puertos
@@ -1298,6 +1468,7 @@ ID_PPI,ID_PP,DESC_PP
 '1509J3E0003,09K004,Proyectos de construcción de puertos
 '1509J3E0004,09K027,Mantenimiento de infraestructura
 '1609J3E0001,09E008,Operación de infraestructura marítimo portuaria
+'1609J3E0002,09E008,Operación de infraestructura marítimo portuaria
 '1709J3E0001,09E008,Operación de infraestructura marítimo portuaria
 '1409J3F0006,09K004,Proyectos de construcción de puertos
 '1609J3F0001,09K027,Mantenimiento de infraestructura
@@ -1307,8 +1478,10 @@ ID_PPI,ID_PP,DESC_PP
 '1409J3L0003,09K040,Proyectos de Infraestructura Ferroviaria
 '1409J4V0003,09K004,Proyectos de construcción de puertos
 '1609J4V0001,09K004,Proyectos de construcción de puertos
+'1309J9E0001,09E012,Servicios de correo
 '1209JZL0025,09K027,Mantenimiento de infraestructura
 '1409JZL0021,09K005,Proyectos de construcción de aeropuertos
+'1409JZL0022,09K005,Proyectos de construcción de aeropuertos
 '1509JZL0007,09K028,Estudios de Preinversión
 '1609JZL0001,09K028,Estudios de Preinversión
 '1609JZL0002,09K027,Mantenimiento de infraestructura
@@ -1362,6 +1535,8 @@ ID_PPI,ID_PP,DESC_PP
 '1510K8V0001,10K025,Proyectos de inmuebles (oficinas administrativas)
 '1610K8V0001,10K025,Proyectos de inmuebles (oficinas administrativas)
 '1610K8V0004,10K025,Proyectos de inmuebles (oficinas administrativas)
+'1710K8V0001,10K027,Mantenimiento de infraestructura
+'1710K8V0002,10K027,Mantenimiento de infraestructura
 '1510LAU0003,10K028,Estudios de Preinversión
 '1510LAU0004,10K028,Estudios de Preinversión
 '1510LAU0005,10K028,Estudios de Preinversión
@@ -1372,6 +1547,9 @@ ID_PPI,ID_PP,DESC_PP
 '1510LAU0011,10K028,Estudios de Preinversión
 '1510LAU0012,10K028,Estudios de Preinversión
 '1610LAU0001,10E007,Producción de información geológica del territorio nacional
+'1710LAU0001,10E007,Producción de información geológica del territorio nacional
+'1710LAU0002,10E007,Producción de información geológica del territorio nacional
+'1710LAU0003,10E007,Producción de información geológica del territorio nacional
 '15116000003,11E009,Programa de Formación de Recursos Humanos basada en Competencias
 '15116000006,11E007,Servicios de Educación Media Superior
 '16116000001,11E009,Programa de Formación de Recursos Humanos basada en Competencias
@@ -1380,6 +1558,7 @@ ID_PPI,ID_PP,DESC_PP
 '16116000004,11E009,Programa de Formación de Recursos Humanos basada en Competencias
 '16116000005,11E009,Programa de Formación de Recursos Humanos basada en Competencias
 '16116000006,11E009,Programa de Formación de Recursos Humanos basada en Competencias
+'17116100001,11E007,Servicios de Educación Media Superior
 '1611A2M0001,11K009,Proyectos de infraestructura social del sector educativo
 '1611A2M0002,11K009,Proyectos de infraestructura social del sector educativo
 '1611A2M0003,11K027,Mantenimiento de infraestructura
@@ -1426,9 +1605,14 @@ ID_PPI,ID_PP,DESC_PP
 '1411B000011,11E010,Servicios de Educación Superior y Posgrado
 '1411B000015,11E010,Servicios de Educación Superior y Posgrado
 '1411B000016,11E010,Servicios de Educación Superior y Posgrado
+'1711B000001,11E021,Investigación Científica y Desarrollo Tecnológico
+'1711B000002,11E010,Servicios de Educación Superior y Posgrado
+'1711B000003,11E010,Servicios de Educación Superior y Posgrado
+'1711B000004,11E010,Servicios de Educación Superior y Posgrado
 '1611B010002,11E013,Producción y transmisión de materiales educativos
 '1611B010003,11E013,Producción y transmisión de materiales educativos
 '1611B010004,11E013,Producción y transmisión de materiales educativos
+'1711B010001,11K009,Proyectos de infraestructura social del sector educativo
 '1511L3P0006,11K009,Proyectos de infraestructura social del sector educativo
 '1611L3P0001,11K027,Mantenimiento de infraestructura
 '1611L3P0002,11E007,Servicios de Educación Media Superior
@@ -1450,6 +1634,7 @@ ID_PPI,ID_PP,DESC_PP
 '1711L4J0001,11K027,Mantenimiento de infraestructura
 '1711L4J0002,11K027,Mantenimiento de infraestructura
 '1711L4J0003,11K009,Proyectos de infraestructura social del sector educativo
+'1711L4J0004,11E021,Investigación Científica y Desarrollo Tecnológico
 '1611L5X0003,11K009,Proyectos de infraestructura social del sector educativo
 '1611L5X0004,11E009,Programa de Formación de Recursos Humanos basada en Competencias
 '1711L6H0001,11E007,Servicios de Educación Media Superior
@@ -1487,9 +1672,12 @@ ID_PPI,ID_PP,DESC_PP
 '1612NAW0002,12E023,Atención a la Salud
 '1612NAW0003,12E023,Atención a la Salud
 '1712NAW0001,12K027,Mantenimiento de infraestructura
+'1712NAW0002,12E023,Atención a la Salud
 '0712NBD0006,12K011,Proyectos de infraestructura social de salud
 '0812NBD0001,12K011,Proyectos de infraestructura social de salud
+'1012NBD0003,12K011,Proyectos de infraestructura social de salud
 '1212NBD0001,12K011,Proyectos de infraestructura social de salud
+'1712NBD0001,12E023,Atención a la Salud
 '0312NBG0001,12K011,Proyectos de infraestructura social de salud
 '0912NBG0002,12K011,Proyectos de infraestructura social de salud
 '1412NBG0003,12K011,Proyectos de infraestructura social de salud
@@ -1497,6 +1685,7 @@ ID_PPI,ID_PP,DESC_PP
 '1612NBG0001,12E023,Atención a la Salud
 '1612NBG0002,12E023,Atención a la Salud
 '1712NBG0001,12E023,Atención a la Salud
+'1712NBQ0001,12E023,Atención a la Salud
 '1612NBR0001,12E023,Atención a la Salud
 '1612NBR0002,12E023,Atención a la Salud
 '1612NBR0003,12E023,Atención a la Salud
@@ -1505,10 +1694,13 @@ ID_PPI,ID_PP,DESC_PP
 '1512NBV0005,12E023,Atención a la Salud
 '1612NBV0001,12E023,Atención a la Salud
 '1612NBV0002,12P020,"Salud materna, sexual y reproductiva"
+'1312NCA0002,12K027,Mantenimiento de infraestructura
 '1612NCA0001,12K011,Proyectos de infraestructura social de salud
 '1612NCA0002,12K011,Proyectos de infraestructura social de salud
 '1612NCA0004,12E022,Investigación y desarrollo tecnológico en salud
 '1612NCA0004,12E023,Atención a la Salud
+'1712NCA0002,12E022,Investigación y desarrollo tecnológico en salud
+'1712NCA0002,12E023,Atención a la Salud
 '0712NCD0009,12K011,Proyectos de infraestructura social de salud
 '1412NCD0001,12K011,Proyectos de infraestructura social de salud
 '1412NCD0002,12K011,Proyectos de infraestructura social de salud
@@ -1516,17 +1708,26 @@ ID_PPI,ID_PP,DESC_PP
 '1612NCD0002,12E022,Investigación y desarrollo tecnológico en salud
 '1612NCD0002,12E023,Atención a la Salud
 '1612NCD0005,12K027,Mantenimiento de infraestructura
+'1712NCD0001,12E022,Investigación y desarrollo tecnológico en salud
+'1712NCD0001,12E023,Atención a la Salud
+'1712NCD0001,12P016,Prevención y atención de VIH/SIDA y otras ITS
 '0912W000002,12K011,Proyectos de infraestructura social de salud
 '1012NCG0006,12K011,Proyectos de infraestructura social de salud
 '1112NCG0001,12K011,Proyectos de infraestructura social de salud
 '1612NCG0004,12K027,Mantenimiento de infraestructura
 '1712NCG0001,12E023,Atención a la Salud
+'1412NCK0004,12K011,Proyectos de infraestructura social de salud
 '1112NCZ0004,12K027,Mantenimiento de infraestructura
 '1612NCZ0001,12E023,Atención a la Salud
 '1612NCZ0002,12E022,Investigación y desarrollo tecnológico en salud
 '1612NCZ0003,12E023,Atención a la Salud
+'1712NDE0001,12E022,Investigación y desarrollo tecnológico en salud
+'1712NDE0001,12E023,Atención a la Salud
+'1712NDE0002,12K028,Estudios de Preinversión
 '1212NDF0003,12K011,Proyectos de infraestructura social de salud
 '1412NDY0004,12K027,Mantenimiento de infraestructura
+'1512NDY0001,12K027,Mantenimiento de infraestructura
+'1512NDY0002,12E022,Investigación y desarrollo tecnológico en salud
 '1512NDY0004,12E022,Investigación y desarrollo tecnológico en salud
 '1612NDY0001,12E022,Investigación y desarrollo tecnológico en salud
 '1612NDY0002,12K011,Proyectos de infraestructura social de salud
@@ -1548,38 +1749,9 @@ ID_PPI,ID_PP,DESC_PP
 '1612NHK0002,12K027,Mantenimiento de infraestructura
 '1612O000001,12P013,Asistencia social y protección del paciente
 '0512S000001,12K025,Proyectos de inmuebles (oficinas administrativas)
+'1412S000001,12G004,Protección Contra Riesgos Sanitarios
+'1612S000001,12G004,Protección Contra Riesgos Sanitarios
 '1612S000002,12G004,Protección Contra Riesgos Sanitarios
-'1212U000041,12NRPP,No requiere programa presupuestario
-'1412U000012,12NRPP,No requiere programa presupuestario
-'1412U000033,12NRPP,No requiere programa presupuestario
-'1512U000002,12NRPP,No requiere programa presupuestario
-'1512U000008,12NRPP,No requiere programa presupuestario
-'1512U000011,12NRPP,No requiere programa presupuestario
-'1512U000012,12NRPP,No requiere programa presupuestario
-'1512U000015,12NRPP,No requiere programa presupuestario
-'1512U000016,12NRPP,No requiere programa presupuestario
-'1512U000017,12NRPP,No requiere programa presupuestario
-'1512U000018,12NRPP,No requiere programa presupuestario
-'1512U000020,12NRPP,No requiere programa presupuestario
-'1512U000022,12NRPP,No requiere programa presupuestario
-'1612U000001,12NRPP,No requiere programa presupuestario
-'1612U000002,12NRPP,No requiere programa presupuestario
-'1612U000003,12NRPP,No requiere programa presupuestario
-'1612U000009,12NRPP,No requiere programa presupuestario
-'1612U000020,12NRPP,No requiere programa presupuestario
-'1612U000023,12NRPP,No requiere programa presupuestario
-'1612U000024,12NRPP,No requiere programa presupuestario
-'1612U000025,12NRPP,No requiere programa presupuestario
-'1612U000026,12NRPP,No requiere programa presupuestario
-'1612U000029,12NRPP,No requiere programa presupuestario
-'1612U000031,12NRPP,No requiere programa presupuestario
-'1612U000032,12NRPP,No requiere programa presupuestario
-'1612U000034,12NRPP,No requiere programa presupuestario
-'1612U000035,12NRPP,No requiere programa presupuestario
-'1612U000037,12NRPP,No requiere programa presupuestario
-'1612U000039,12NRPP,No requiere programa presupuestario
-'1612U000040,12NRPP,No requiere programa presupuestario
-'1612U000041,12NRPP,No requiere programa presupuestario
 '1112V000001,12K025,Proyectos de inmuebles (oficinas administrativas)
 '14131130001,13A001,Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales
 '15131130001,13A001,Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales
@@ -1681,15 +1853,17 @@ ID_PPI,ID_PP,DESC_PP
 '17133120001,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
 '17133120002,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
 '17133120003,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'17165100001,16K138,Inversión en Infraestructura Social y Protección Ambiental
 '13165120002,16K025,Proyectos de inmuebles (oficinas administrativas)
+'16165120001,16K138,Inversión en Infraestructura Social y Protección Ambiental
 '16165120002,16K138,Inversión en Infraestructura Social y Protección Ambiental
+'17166120001,16K138,Inversión en Infraestructura Social y Protección Ambiental
 '0316B000035,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '0316B000058,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '0316B000059,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '0316B000230,16K025,Proyectos de inmuebles (oficinas administrativas)
 '0516B000103,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '0616B000034,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
-'0616B000038,16NRPP,No requiere programa presupuestario
 '0716B000078,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '0716B000095,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '0716B000096,16K111,Rehabilitación y Modernización de Presas y Estructuras de Cabeza
@@ -1697,7 +1871,6 @@ ID_PPI,ID_PP,DESC_PP
 '0816B000086,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '0816B000128,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '0816B000160,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
-'0816B000160,16NRPP,No requiere programa presupuestario
 '0816B000202,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '0816B000219,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '0816B000231,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
@@ -1708,12 +1881,13 @@ ID_PPI,ID_PP,DESC_PP
 '1016B000102,16K028,Estudios de Preinversión
 '1016B000154,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1116B000008,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
+'1116B000048,16K025,Proyectos de inmuebles (oficinas administrativas)
 '1116B000052,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1116B000195,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1116B000203,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1216B000036,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1216B000053,16K028,Estudios de Preinversión
-'1216B000060,16NRPP,No requiere programa presupuestario
+'1216B000059,16K140,Inversión del Servicio Meteorológico Nacional
 '1216B000069,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1216B000084,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1216B000085,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
@@ -1743,6 +1917,7 @@ ID_PPI,ID_PP,DESC_PP
 '1316B000161,16K028,Estudios de Preinversión
 '1316B000169,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1316B000183,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
+'1316B000188,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1316B000194,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1316B000200,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1409JZL0005,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
@@ -1754,6 +1929,7 @@ ID_PPI,ID_PP,DESC_PP
 '1416B000023,16K025,Proyectos de inmuebles (oficinas administrativas)
 '1416B000025,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1416B000026,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
+'1416B000027,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1416B000031,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1416B000032,16E006,Sistemas Meteorológicos e Hidrológicos
 '1416B000036,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
@@ -1773,7 +1949,6 @@ ID_PPI,ID_PP,DESC_PP
 '1416B000087,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1416B000088,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1416B000094,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
-'1416B000095,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1416B000099,16E006,Sistemas Meteorológicos e Hidrológicos
 '1416B000099,16K140,Inversión del Servicio Meteorológico Nacional
 '1416B000100,16K140,Inversión del Servicio Meteorológico Nacional
@@ -1803,15 +1978,15 @@ ID_PPI,ID_PP,DESC_PP
 '1516B000038,16K028,Estudios de Preinversión
 '1516B000044,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1516B000053,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
-'1516B000056,16NRPP,No requiere programa presupuestario
 '1516B000060,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1516B000062,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1516B000068,16E006,Sistemas Meteorológicos e Hidrológicos
-'1516B000069,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1516B000070,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1516B000071,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1516B000072,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
+'1516B000083,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1516B000087,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1516B000088,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
-'1516B000090,16NRPP,No requiere programa presupuestario
 '1516B000092,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1516B000094,16K028,Estudios de Preinversión
 '1516B000095,16K028,Estudios de Preinversión
@@ -1822,6 +1997,7 @@ ID_PPI,ID_PP,DESC_PP
 '1516B000106,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1516B000112,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1516B000113,16K111,Rehabilitación y Modernización de Presas y Estructuras de Cabeza
+'1616B000001,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000002,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000003,16K111,Rehabilitación y Modernización de Presas y Estructuras de Cabeza
 '1616B000004,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
@@ -1840,6 +2016,7 @@ ID_PPI,ID_PP,DESC_PP
 '1616B000021,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000022,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000023,16K028,Estudios de Preinversión
+'1616B000025,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1616B000026,16K111,Rehabilitación y Modernización de Presas y Estructuras de Cabeza
 '1616B000027,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1616B000028,16G010,Gestión integral y sustentable del agua
@@ -1882,7 +2059,7 @@ ID_PPI,ID_PP,DESC_PP
 '1616B000065,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000066,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000067,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
-'1616B000067,16NRPP,No requiere programa presupuestario
+'1616B000067,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000068,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000069,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1616B000070,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
@@ -1896,19 +2073,19 @@ ID_PPI,ID_PP,DESC_PP
 '1616B000078,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1616B000079,16K028,Estudios de Preinversión
 '1616B000080,16K028,Estudios de Preinversión
-'1616B000081,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1616B000082,16G010,Gestión integral y sustentable del agua
 '1616B000083,16K025,Proyectos de inmuebles (oficinas administrativas)
 '1616B000084,16K025,Proyectos de inmuebles (oficinas administrativas)
+'1616B000085,16K140,Inversión del Servicio Meteorológico Nacional
 '1616B000086,16K111,Rehabilitación y Modernización de Presas y Estructuras de Cabeza
 '1616B000087,16G010,Gestión integral y sustentable del agua
+'1616B000088,16K025,Proyectos de inmuebles (oficinas administrativas)
 '1616B000089,16G010,Gestión integral y sustentable del agua
 '1616B000090,16K025,Proyectos de inmuebles (oficinas administrativas)
 '1616B000091,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1616B000092,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
 '1616B000093,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
 '1616B000094,16E006,Sistemas Meteorológicos e Hidrológicos
-'1616B000095,16NRPP,No requiere programa presupuestario
 '1616B000096,16K140,Inversión del Servicio Meteorológico Nacional
 '1616B000097,16K138,Inversión en Infraestructura Social y Protección Ambiental
 '1616B000099,16K140,Inversión del Servicio Meteorológico Nacional
@@ -1923,11 +2100,15 @@ ID_PPI,ID_PP,DESC_PP
 '1716B000002,16K140,Inversión del Servicio Meteorológico Nacional
 '1716B000003,16K028,Estudios de Preinversión
 '1716B000004,16K140,Inversión del Servicio Meteorológico Nacional
+'1716B000009,16K025,Proyectos de inmuebles (oficinas administrativas)
+'1716B000010,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1716B000015,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
 '1616E000002,16G005,Inspección y Vigilancia del Medio Ambiente y Recursos Naturales
 '1716E000001,16K138,Inversión en Infraestructura Social y Protección Ambiental
 '1516F000001,16G013,Sistema Nacional de Áreas Naturales Protegidas
 '1516F000002,16G013,Sistema Nacional de Áreas Naturales Protegidas
 '1516F000003,16G013,Sistema Nacional de Áreas Naturales Protegidas
+'1516G000001,16G031,"Regulación, Gestión y Supervisión del Sector Hidrocarburos"
 '1116RHQ0006,16K025,Proyectos de inmuebles (oficinas administrativas)
 '1516RHQ0002,16E014,Protección Forestal
 '1516RHQ0003,16K138,Inversión en Infraestructura Social y Protección Ambiental
@@ -1939,6 +2120,7 @@ ID_PPI,ID_PP,DESC_PP
 '1616RHQ0006,16K138,Inversión en Infraestructura Social y Protección Ambiental
 '1616RHQ0009,16K138,Inversión en Infraestructura Social y Protección Ambiental
 '1616RHQ0010,16K138,Inversión en Infraestructura Social y Protección Ambiental
+'17173000001,17E002,Investigar y perseguir los delitos del orden federal
 '13178120017,17E002,Investigar y perseguir los delitos del orden federal
 '13178120030,17K027,Mantenimiento de infraestructura
 '14178120007,17K027,Mantenimiento de infraestructura
@@ -1965,12 +2147,16 @@ ID_PPI,ID_PP,DESC_PP
 '16178120031,17K028,Estudios de Preinversión
 '16178120032,17E002,Investigar y perseguir los delitos del orden federal
 '16178120033,17E002,Investigar y perseguir los delitos del orden federal
-'13178150002,17E003,Investigar y perseguir los delitos relativos a la Delincuencia Organizada
+'17178120001,17E002,Investigar y perseguir los delitos del orden federal
+'17178120002,17K028,Estudios de Preinversión
+'17178120003,17K027,Mantenimiento de infraestructura
+'17178160001,17M001,Actividades de apoyo administrativo
 '0818T0K0005,18K029,Programas de adquisiciones
 '1218T0K0001,18K027,Mantenimiento de infraestructura
 '1218T0K0003,18K029,Programas de adquisiciones
 '1518T0K0001,18K029,Programas de adquisiciones
 '1618T0K0001,18K029,Programas de adquisiciones
+'1653TVV0001,18K021,Proyectos de infraestructura de turismo
 '0218T0O0001,18K010,Proyectos de infraestructura social de ciencia y tecnología
 '0518T0O0007,18K030,Otros proyectos de infraestructura
 '1218T0O0007,18K010,Proyectos de infraestructura social de ciencia y tecnología
@@ -2043,16 +2229,22 @@ ID_PPI,ID_PP,DESC_PP
 '1621W3N0007,21K028,Estudios de Preinversión
 '1653TVV0001,21K021,Proyectos de infraestructura de turismo
 '16272080001,27O002,Fiscalización a la gestión pública
+'17272080001,27K028,Estudios de Preinversión
+'17272080001,27O002,Fiscalización a la gestión pública
+'16274090001,27O005,"Regulación de los procesos, trámites y servicios de la Administración Pública Federal"
 '16275100001,27M001,Actividades de apoyo administrativo
+'15275110002,27O005,"Regulación de los procesos, trámites y servicios de la Administración Pública Federal"
+'16275110001,27O005,"Regulación de los procesos, trámites y servicios de la Administración Pública Federal"
+'14275140003,27M001,Actividades de apoyo administrativo
 '15275140001,27M001,Actividades de apoyo administrativo
 '15275140003,27M001,Actividades de apoyo administrativo
+'16275140001,27M001,Actividades de apoyo administrativo
 '06321100002,32K025,Proyectos de inmuebles (oficinas administrativas)
 '163890C0001,38E003,"Investigación científica, desarrollo e innovación"
 '153890K0002,38K010,Proyectos de infraestructura social de ciencia y tecnología
 '163890O0001,38E003,"Investigación científica, desarrollo e innovación"
 '143890Q0002,38K010,Proyectos de infraestructura social de ciencia y tecnología
 '133890S0006,38K010,Proyectos de infraestructura social de ciencia y tecnología
-'133890W0001,38NRPP,No requiere programa presupuestario
 '153890W0001,38K010,Proyectos de infraestructura social de ciencia y tecnología
 '163890Y0001,38K010,Proyectos de infraestructura social de ciencia y tecnología
 '133891A0004,38K010,Proyectos de infraestructura social de ciencia y tecnología
@@ -2068,7 +2260,9 @@ ID_PPI,ID_PP,DESC_PP
 '16389ZU0003,38K010,Proyectos de infraestructura social de ciencia y tecnología
 '14389ZY0002,38K010,Proyectos de infraestructura social de ciencia y tecnología
 '1647AYB0003,47P013,Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas
+'1747AYB0001,47P013,Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas
 '1647AYL0001,47K024,Otros proyectos de infraestructura gubernamental
+'1611D000001,48K009,Proyectos de infraestructura social del sector educativo
 '0850GYR0030,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '0950GYR0001,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '0950GYR0007,50K012,Proyectos de infraestructura social de asistencia y seguridad social
@@ -2256,6 +2450,9 @@ ID_PPI,ID_PP,DESC_PP
 '1650GYR0068,50K029,Programas de adquisiciones
 '1650GYR0069,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0070,50K027,Mantenimiento de infraestructura
+'1650GYR0071,50K029,Programas de adquisiciones
+'1650GYR0072,50K029,Programas de adquisiciones
+'1650GYR0073,50K029,Programas de adquisiciones
 '1650GYR0074,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0075,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0076,50K012,Proyectos de infraestructura social de asistencia y seguridad social
@@ -2278,6 +2475,7 @@ ID_PPI,ID_PP,DESC_PP
 '1650GYR0094,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0097,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0099,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0100,50K029,Programas de adquisiciones
 '1650GYR0102,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0103,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0104,50K012,Proyectos de infraestructura social de asistencia y seguridad social
@@ -2286,8 +2484,11 @@ ID_PPI,ID_PP,DESC_PP
 '1650GYR0107,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0108,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0109,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0110,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0112,50K029,Programas de adquisiciones
 '1650GYR0113,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0114,50K029,Programas de adquisiciones
+'1650GYR0115,50K029,Programas de adquisiciones
 '1650GYR0116,50K027,Mantenimiento de infraestructura
 '1650GYR0117,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0118,50K012,Proyectos de infraestructura social de asistencia y seguridad social
@@ -2295,6 +2496,7 @@ ID_PPI,ID_PP,DESC_PP
 '1650GYR0120,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0121,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0122,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0123,50K029,Programas de adquisiciones
 '1650GYR0124,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0125,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1650GYR0126,50K012,Proyectos de infraestructura social de asistencia y seguridad social
@@ -2315,11 +2517,16 @@ ID_PPI,ID_PP,DESC_PP
 '1750GYR0006,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '1750GYR0007,50K027,Mantenimiento de infraestructura
 '1750GYR0008,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1750GYR0009,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1750GYR0010,50K029,Programas de adquisiciones
+'1750GYR0011,50K025,Proyectos de inmuebles (oficinas administrativas)
+'1750GYR0016,50K012,Proyectos de infraestructura social de asistencia y seguridad social
 '0951GYN0003,51K011,Proyectos de infraestructura social.
 '1151GYN0008,51K011,Proyectos de infraestructura social.
 '1151GYN0008,51K027,Mantenimiento de infraestructura
 '1151GYN0010,51K011,Proyectos de infraestructura social.
 '1151GYN0011,51K011,Proyectos de infraestructura social.
+'1151GYN0012,51K011,Proyectos de infraestructura social.
 '1351GYN0006,51K027,Mantenimiento de infraestructura
 '1351GYN0007,51K011,Proyectos de infraestructura social.
 '1451GYN0005,51K011,Proyectos de infraestructura social.
@@ -2409,6 +2616,9 @@ ID_PPI,ID_PP,DESC_PP
 '1751GYN0006,51K011,Proyectos de infraestructura social.
 '1751GYN0007,51K011,Proyectos de infraestructura social.
 '1751GYN0008,51K011,Proyectos de infraestructura social.
+'1751GYN0009,51K011,Proyectos de infraestructura social.
+'1751GYN0010,51K011,Proyectos de infraestructura social.
+'1751GYN0011,51K011,Proyectos de infraestructura social.
 '001 02 001,52K002,Proyectos de infraestructura económica de hidrocarburos
 '018 01 016,52K002,Proyectos de infraestructura económica de hidrocarburos
 '020 96 020,52K002,Proyectos de infraestructura económica de hidrocarburos
@@ -2486,6 +2696,7 @@ ID_PPI,ID_PP,DESC_PP
 '0418T4T0005,52K002,Proyectos de infraestructura económica de hidrocarburos
 '0518T4Q0004,52K027,Mantenimiento de infraestructura
 '0618T4O0002,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0718T4O0024,52K002,Proyectos de infraestructura económica de hidrocarburos
 '0718T4O0041,52K027,Mantenimiento de infraestructura
 '0818T4O0020,52K027,Mantenimiento de infraestructura
 '0818T4O0021,52K027,Mantenimiento de infraestructura
@@ -2493,6 +2704,7 @@ ID_PPI,ID_PP,DESC_PP
 '0818T4O0030,52K002,Proyectos de infraestructura económica de hidrocarburos
 '0818T4O0033,52K002,Proyectos de infraestructura económica de hidrocarburos
 '0818T4O0047,52K027,Mantenimiento de infraestructura
+'0818T4O0056,52K027,Mantenimiento de infraestructura
 '0918T4O0011,52K002,Proyectos de infraestructura económica de hidrocarburos
 '1018T4O0004,52K027,Mantenimiento de infraestructura
 '1118T4O0004,52K027,Mantenimiento de infraestructura
@@ -2596,11 +2808,17 @@ ID_PPI,ID_PP,DESC_PP
 '1418T4N0019,52K027,Mantenimiento de infraestructura
 '1418T4N0021,52K027,Mantenimiento de infraestructura
 '1118T4L0006,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1118T4L0006,52K030,Otros proyectos de infraestructura
 '1218T4L0001,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0001,52K030,Otros proyectos de infraestructura
 '1318T4L0011,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4L0011,52K030,Otros proyectos de infraestructura
 '1318T4L0016,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4L0016,52K030,Otros proyectos de infraestructura
 '1318T4L0017,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4L0017,52K030,Otros proyectos de infraestructura
 '1418T4L0001,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1418T4L0001,52K030,Otros proyectos de infraestructura
 '0318T4M0090,52K002,Proyectos de infraestructura económica de hidrocarburos
 '0318T4N0034,52K002,Proyectos de infraestructura económica de hidrocarburos
 '0418T4M0012,52K002,Proyectos de infraestructura económica de hidrocarburos
@@ -2782,12 +3000,14 @@ ID_PPI,ID_PP,DESC_PP
 '1418T4I0005,52K029,Programas de adquisiciones
 '1418T4I0006,52K029,Programas de adquisiciones
 '1418T4I0007,52K029,Programas de adquisiciones
+'1418T4I0010,52K029,Programas de adquisiciones
 '1418T4I0011,52K027,Mantenimiento de infraestructura
 '1418T4I0012,52K027,Mantenimiento de infraestructura
 '1418T4I0013,52K029,Programas de adquisiciones
 '1418T4I0014,52K029,Programas de adquisiciones
 '1418T4I0016,52K029,Programas de adquisiciones
 '1418T4I0017,52K029,Programas de adquisiciones
+'1418T4I0018,52K029,Programas de adquisiciones
 '1418T4I0019,52K029,Programas de adquisiciones
 '1418T4I0020,52K029,Programas de adquisiciones
 '1418T4I0021,52K030,Otros proyectos de infraestructura
@@ -2871,6 +3091,7 @@ ID_PPI,ID_PP,DESC_PP
 '1418TOQ0027,53K001,Proyectos de infraestructura económica de electricidad
 '1418TOQ0028,53K001,Proyectos de infraestructura económica de electricidad
 '1418TOQ0029,53K001,Proyectos de infraestructura económica de electricidad
+'1418TOQ0031,53K001,Proyectos de infraestructura económica de electricidad
 '1418TOQ0032,53K001,Proyectos de infraestructura económica de electricidad
 '1418TOQ0033,53K029,Programas de adquisiciones
 '1418TOQ0041,53K001,Proyectos de infraestructura económica de electricidad
@@ -2892,4 +3113,3 @@ ID_PPI,ID_PP,DESC_PP
 '1518TOQ0004,53K027,Mantenimiento de infraestructura
 '1518TOQ0005,53K001,Proyectos de infraestructura económica de electricidad
 '1518TOQ0006,53K028,Estudios de Preinversión
-'1653TVV0001,53K021,Proyectos de infraestructura de turismo
