@@ -1,1 +1,668 @@
 ID_PPI,ID_PP,DESC_PP
+'001 02 001,52K002,Proyectos de infraestructura económica de hidrocarburos
+'018 01 016,52K002,Proyectos de infraestructura económica de hidrocarburos
+'020 96 020,52K002,Proyectos de infraestructura económica de hidrocarburos
+'021 96 021,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0218T4L0039,52K002,Proyectos de infraestructura económica de hidrocarburos
+'02204120009,20K025,Proyectos de inmuebles (oficinas administrativas)
+'0310K2N0002,10K024,Otros proyectos de infraestructura gubernamental
+'0310K8V0014,10K025,Proyectos de inmuebles (oficinas administrativas)
+'0312NBG0001,12K011,Proyectos de infraestructura social de salud
+'0316B000230,16K025,Proyectos de inmuebles (oficinas administrativas)
+'0318T4M0100,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0318T4N0034,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0321W3N0149,21K025,Proyectos de inmuebles (oficinas administrativas)
+'0321W3N0157,21K021,Proyectos de infraestructura de turismo
+'038 98 038,52K002,Proyectos de infraestructura económica de hidrocarburos
+'039 98 039,52K002,Proyectos de infraestructura económica de hidrocarburos
+'04096500001,09K003,Proyectos de construcción de carreteras
+'0418T4O0002,52K030,Otros proyectos de infraestructura
+'0418T4T0005,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0418TZZ0001,52K002,Proyectos de infraestructura económica de hidrocarburos
+'05096320001,09K003,Proyectos de construcción de carreteras
+'05096320001,09K048,Servicios relacionados para la liberación del derecho de vía
+'05096320004,09K003,Proyectos de construcción de carreteras
+'05096320004,09K048,Servicios relacionados para la liberación del derecho de vía
+'05096400027,09K003,Proyectos de construcción de carreteras
+'05096400027,09K048,Servicios relacionados para la liberación del derecho de vía
+'0512S000001,12K025,Proyectos de inmuebles (oficinas administrativas)
+'0518T4M0010,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0518TZZ0001,52K002,Proyectos de infraestructura económica de hidrocarburos
+'06056130001,05K025,Proyectos de inmuebles (oficinas administrativas)
+'06096220004,09K003,Proyectos de construcción de carreteras
+'06096220004,09K048,Servicios relacionados para la liberación del derecho de vía
+'06096270013,09K003,Proyectos de construcción de carreteras
+'06096270013,09K048,Servicios relacionados para la liberación del derecho de vía
+'06096280001,09K003,Proyectos de construcción de carreteras
+'06096280001,09K048,Servicios relacionados para la liberación del derecho de vía
+'06096340009,09K003,Proyectos de construcción de carreteras
+'06096470004,09K003,Proyectos de construcción de carreteras
+'06096470004,09K048,Servicios relacionados para la liberación del derecho de vía
+'06096470005,09K003,Proyectos de construcción de carreteras
+'06096470005,09K048,Servicios relacionados para la liberación del derecho de vía
+'0609J3E0004,09K004,Proyectos de construcción de puertos
+'0609J3E0005,09K004,Proyectos de construcción de puertos
+'06125120002,12K025,Proyectos de inmuebles (oficinas administrativas)
+'06125120003,12K025,Proyectos de inmuebles (oficinas administrativas)
+'06125120004,12K025,Proyectos de inmuebles (oficinas administrativas)
+'0616B000034,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'0618TZZ0004,52K002,Proyectos de infraestructura económica de hidrocarburos
+'069 98 069,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0706G2T0001,06B004,Producción y comercialización de monedas
+'07071320002,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'07096220005,09K003,Proyectos de construcción de carreteras
+'07096220005,09K048,Servicios relacionados para la liberación del derecho de vía
+'07096260008,09K003,Proyectos de construcción de carreteras
+'07096260008,09K048,Servicios relacionados para la liberación del derecho de vía
+'0718T4N0004,52K027,Mantenimiento de infraestructura
+'0718TZZ0001,52K002,Proyectos de infraestructura económica de hidrocarburos
+'08096220002,09K003,Proyectos de construcción de carreteras
+'08096220002,09K048,Servicios relacionados para la liberación del derecho de vía
+'08096280004,09K003,Proyectos de construcción de carreteras
+'08096280004,09K048,Servicios relacionados para la liberación del derecho de vía
+'08096280008,09K003,Proyectos de construcción de carreteras
+'08096300008,09K003,Proyectos de construcción de carreteras
+'08096300008,09K048,Servicios relacionados para la liberación del derecho de vía
+'08096320020,09K003,Proyectos de construcción de carreteras
+'08096320020,09K048,Servicios relacionados para la liberación del derecho de vía
+'08096330029,09K003,Proyectos de construcción de carreteras
+'08096330030,09K003,Proyectos de construcción de carreteras
+'08096330030,09K048,Servicios relacionados para la liberación del derecho de vía
+'08096400015,09K003,Proyectos de construcción de carreteras
+'08096400015,09K048,Servicios relacionados para la liberación del derecho de vía
+'0809J2R0003,09K004,Proyectos de construcción de puertos
+'0809J3E0005,09K004,Proyectos de construcción de puertos
+'08132110002,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'0816B000086,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'0818T4M0030,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0818T4M0031,52K027,Mantenimiento de infraestructura
+'0818T4M0042,52K027,Mantenimiento de infraestructura
+'0818T4M0043,52K027,Mantenimiento de infraestructura
+'0818T4M0044,52K027,Mantenimiento de infraestructura
+'0818T4M0045,52K027,Mantenimiento de infraestructura
+'0818T4N0001,52K027,Mantenimiento de infraestructura
+'0818T4O0020,52K027,Mantenimiento de infraestructura
+'0818T4O0021,52K027,Mantenimiento de infraestructura
+'0821W3N0028,21K021,Proyectos de infraestructura de turismo
+'0836E000019,04K023,Proyectos de infraestructura gubernamental de seguridad pública
+'0850GYR0030,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'09071320003,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'09094000001,09K045,Sistema Satelital
+'09096220001,09K003,Proyectos de construcción de carreteras
+'09096220001,09K048,Servicios relacionados para la liberación del derecho de vía
+'09096230003,09K003,Proyectos de construcción de carreteras
+'09096360018,09K003,Proyectos de construcción de carreteras
+'09096360018,09K048,Servicios relacionados para la liberación del derecho de vía
+'09096390003,09K003,Proyectos de construcción de carreteras
+'09096410023,09K003,Proyectos de construcción de carreteras
+'09096410023,09K048,Servicios relacionados para la liberación del derecho de vía
+'09096420007,09K003,Proyectos de construcción de carreteras
+'09096520013,09K003,Proyectos de construcción de carreteras
+'09096520013,09K048,Servicios relacionados para la liberación del derecho de vía
+'0918T4M0013,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0918T4M0023,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0918T4M0046,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0918T4M0047,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0918T4N0003,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0918T4N0004,52K030,Otros proyectos de infraestructura
+'093 98 093,52K002,Proyectos de infraestructura económica de hidrocarburos
+'094 01 092,52K002,Proyectos de infraestructura económica de hidrocarburos
+'0951GYN0003,51K011,Proyectos de infraestructura social.
+'097 01 095,52K002,Proyectos de infraestructura económica de hidrocarburos
+'098 01 096,52K002,Proyectos de infraestructura económica de hidrocarburos
+'10071320003,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'10092110001,09K032,Reconstrucción y Conservación de Carreteras
+'10092110010,09K032,Reconstrucción y Conservación de Carreteras
+'10096280004,09K003,Proyectos de construcción de carreteras
+'10096280004,09K048,Servicios relacionados para la liberación del derecho de vía
+'10096350045,09K003,Proyectos de construcción de carreteras
+'10096350045,09K048,Servicios relacionados para la liberación del derecho de vía
+'10096440014,09K003,Proyectos de construcción de carreteras
+'10096440014,09K048,Servicios relacionados para la liberación del derecho de vía
+'10096450008,09K003,Proyectos de construcción de carreteras
+'101 01 099,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1010K2N0002,10K027,Mantenimiento de Infraestructura
+'1012NCG0006,12K011,Proyectos de infraestructura social de salud
+'10132160001,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'10132160002,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'1018T4M0016,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1018T4M0021,52K036,Conservación de infraestructura marítimo-portuaria
+'1018T4M0028,52K027,Mantenimiento de infraestructura
+'1018T4M0035,52K027,Mantenimiento de infraestructura
+'1018T4M0036,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1018T4N0007,52K027,Mantenimiento de infraestructura
+'102 01 100,52K002,Proyectos de infraestructura económica de hidrocarburos
+'109 01 107,52K002,Proyectos de infraestructura económica de hidrocarburos
+'11092110001,09K032,Reconstrucción y Conservación de Carreteras
+'11092110007,09K032,Reconstrucción y Conservación de Carreteras
+'11092110011,09K032,Reconstrucción y Conservación de Carreteras
+'11096210005,09K003,Proyectos de construcción de carreteras
+'11096240002,09K003,Proyectos de construcción de carreteras
+'11096240002,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096240003,09K003,Proyectos de construcción de carreteras
+'11096240003,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096250001,09K003,Proyectos de construcción de carreteras
+'11096250001,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096270038,09K003,Proyectos de construcción de carreteras
+'11096300004,09K003,Proyectos de construcción de carreteras
+'11096300004,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096310010,09K003,Proyectos de construcción de carreteras
+'11096310010,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096310011,09K003,Proyectos de construcción de carreteras
+'11096310011,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096330002,09K003,Proyectos de construcción de carreteras
+'11096330002,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096330021,09K003,Proyectos de construcción de carreteras
+'11096330021,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096340001,09K003,Proyectos de construcción de carreteras
+'11096340001,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096340005,09K003,Proyectos de construcción de carreteras
+'11096340005,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096340013,09K003,Proyectos de construcción de carreteras
+'11096340013,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096360009,09K003,Proyectos de construcción de carreteras
+'11096360009,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096370002,09K003,Proyectos de construcción de carreteras
+'11096370002,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096390009,09K003,Proyectos de construcción de carreteras
+'11096420007,09K003,Proyectos de construcción de carreteras
+'11096430003,09K003,Proyectos de construcción de carreteras
+'11096440003,09K003,Proyectos de construcción de carreteras
+'11096440003,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096450008,09K003,Proyectos de construcción de carreteras
+'11096450008,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096460012,09K003,Proyectos de construcción de carreteras
+'11096460012,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096480003,09K003,Proyectos de construcción de carreteras
+'11096480005,09K003,Proyectos de construcción de carreteras
+'11096480005,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096500018,09K003,Proyectos de construcción de carreteras
+'11096500018,09K048,Servicios relacionados para la liberación del derecho de vía
+'11096520003,09K003,Proyectos de construcción de carreteras
+'11096520003,09K048,Servicios relacionados para la liberación del derecho de vía
+'1109J3E0008,09K004,Proyectos de construcción de puertos
+'1109J3E0011,09K004,Proyectos de construcción de puertos
+'11132160007,13K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1118T4L0002,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1118T4L0003,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1118T4L0006,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1118T4L0006,52K030,Otros proyectos de infraestructura
+'1118T4M0013,52K030,Otros proyectos de infraestructura
+'1118T4M0020,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1118T4M0041,52K027,Mantenimiento de infraestructura
+'1118T4N0009,52K030,Otros proyectos de infraestructura
+'1118T4O0004,52K027,Mantenimiento de infraestructura
+'1118T4O0013,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1118T4O0016,52K027,Mantenimiento de infraestructura
+'12071320003,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'12092100007,09K003,Proyectos de construcción de carreteras
+'12096230004,09K003,Proyectos de construcción de carreteras
+'12096230004,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096230005,09K003,Proyectos de construcción de carreteras
+'12096230005,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096230006,09K003,Proyectos de construcción de carreteras
+'12096230006,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096300011,09K003,Proyectos de construcción de carreteras
+'12096300011,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096330030,09K003,Proyectos de construcción de carreteras
+'12096340019,09K003,Proyectos de construcción de carreteras
+'12096350033,09K003,Proyectos de construcción de carreteras
+'12096350033,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096390009,09K040,Proyectos de Infraestructura Ferroviaria
+'12096390009,09K041,Sistema de Transporte Colectivo
+'12096410042,09K003,Proyectos de construcción de carreteras
+'12096410042,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096410043,09K003,Proyectos de construcción de carreteras
+'12096410043,09K048,Servicios relacionados para la liberación del derecho de vía
+'12096470009,09K003,Proyectos de construcción de carreteras
+'12096470009,09K048,Servicios relacionados para la liberación del derecho de vía
+'1209JZL0025,09K027,Mantenimiento de infraestructura
+'1212NDF0003,12K011,Proyectos de infraestructura social de salud
+'12132160002,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'1216B000084,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1216B000115,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1218T0K0001,18K027,Mantenimiento de infraestructura
+'1218T0K0003,18K029,Programas de adquisiciones
+'1218T4I0019,52K029,Programas de adquisiciones
+'1218T4L0010,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0013,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0014,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0017,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0018,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0021,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0022,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0024,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0025,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0026,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0027,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4L0028,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4M0010,52K027,Mantenimiento de infraestructura
+'1218T4M0011,52K027,Mantenimiento de infraestructura
+'1218T4M0012,52K027,Mantenimiento de infraestructura
+'1218T4M0013,52K027,Mantenimiento de infraestructura
+'1218T4M0014,52K027,Mantenimiento de infraestructura
+'1218T4M0025,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4M0030,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4M0031,52K027,Mantenimiento de infraestructura
+'1218T4O0018,52K027,Mantenimiento de infraestructura
+'1218T4O0019,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1218T4O0020,52K029,Programas de adquisiciones
+'1218T4O0021,52K030,Otros proyectos de infraestructura
+'1218T4O0026,52K027,Mantenimiento de infraestructura
+'1218TOQ0072,53K001,Proyectos de infraestructura económica de electricidad
+'1218TOQ0074,53K027,Mantenimiento de infraestructura
+'1306G1H0006,06K024,Otros proyectos de infraestructura gubernamental
+'13092100004,09K003,Proyectos de construcción de carreteras
+'13093110003,09K041,Sistema de Transporte Colectivo
+'13093110005,09K040,Proyectos de Infraestructura Ferroviaria
+'13093110008,09K040,Proyectos de Infraestructura Ferroviaria
+'13096250003,09K003,Proyectos de construcción de carreteras
+'13096250003,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096250007,09K003,Proyectos de construcción de carreteras
+'13096250007,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096270008,09K003,Proyectos de construcción de carreteras
+'13096270008,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096300010,09K003,Proyectos de construcción de carreteras
+'13096300010,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096310020,09K003,Proyectos de construcción de carreteras
+'13096310020,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096320014,09K003,Proyectos de construcción de carreteras
+'13096410031,09K003,Proyectos de construcción de carreteras
+'13096410031,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096470001,09K003,Proyectos de construcción de carreteras
+'13096470001,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096500015,09K003,Proyectos de construcción de carreteras
+'13096500015,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096500022,09K003,Proyectos de construcción de carreteras
+'13096510002,09K003,Proyectos de construcción de carreteras
+'13096510002,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096520013,09K003,Proyectos de construcción de carreteras
+'13096520013,09K048,Servicios relacionados para la liberación del derecho de vía
+'13096520014,09K003,Proyectos de construcción de carreteras
+'13096520014,09K048,Servicios relacionados para la liberación del derecho de vía
+'1309J3A0003,09K004,Proyectos de construcción de puertos
+'1310K2N0003,10B001,"Producción, transportación y comercialización de sal marina"
+'13132160016,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'13165120002,16K025,Proyectos de inmuebles (oficinas administrativas)
+'1318T0O0009,18K027,Mantenimiento de infraestructura
+'1318T4I0009,52K029,Programas de adquisiciones
+'1318T4I0011,52K029,Programas de adquisiciones
+'1318T4L0011,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4L0011,52K030,Otros proyectos de infraestructura
+'1318T4M0001,52K029,Programas de adquisiciones
+'1318T4M0002,52K029,Programas de adquisiciones
+'1318T4M0005,52K027,Mantenimiento de infraestructura
+'1318T4M0006,52K027,Mantenimiento de infraestructura
+'1318T4M0010,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4M0012,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4M0013,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4M0027,52K027,Mantenimiento de infraestructura
+'1318T4M0032,52K036,Conservación de infraestructura marítimo-portuaria
+'1318T4M0037,52K029,Programas de adquisiciones
+'1318T4M0039,52K029,Programas de adquisiciones
+'1318T4M0041,52K027,Mantenimiento de infraestructura
+'1318T4M0044,52K027,Mantenimiento de infraestructura
+'1318T4M0049,52K036,Conservación de infraestructura marítimo-portuaria
+'1318T4M0050,52K027,Mantenimiento de infraestructura
+'1318T4M0051,52K030,Otros proyectos de infraestructura
+'1318T4M0052,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4M0056,52K029,Programas de adquisiciones
+'1318T4M0060,52K027,Mantenimiento de infraestructura
+'1318T4M0065,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4N0002,52K029,Programas de adquisiciones
+'1318T4N0003,52K027,Mantenimiento de infraestructura
+'1318T4N0006,52K027,Mantenimiento de infraestructura
+'1318T4N0009,52K027,Mantenimiento de infraestructura
+'1318T4N0013,52K027,Mantenimiento de infraestructura
+'1318T4N0014,52K027,Mantenimiento de infraestructura
+'1318T4N0018,52K027,Mantenimiento de infraestructura
+'1318T4N0023,52K027,Mantenimiento de infraestructura
+'1318T4N0024,52K027,Mantenimiento de infraestructura
+'1318T4N0025,52K027,Mantenimiento de infraestructura
+'1318T4N0031,52K027,Mantenimiento de infraestructura
+'1318T4N0033,52K027,Mantenimiento de infraestructura
+'1318T4N0034,52K029,Programas de adquisiciones
+'1318T4N0037,52K029,Programas de adquisiciones
+'1318T4N0038,52K027,Mantenimiento de infraestructura
+'1318T4N0039,52K027,Mantenimiento de infraestructura
+'1318T4N0040,52K030,Otros proyectos de infraestructura
+'1318T4O0004,52K027,Mantenimiento de infraestructura
+'1318T4O0005,52K027,Mantenimiento de infraestructura
+'1318T4O0007,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318T4O0010,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1318TOQ0002,53K029,Programas de adquisiciones
+'1318TOQ0011,53K028,Estudios de preinversión
+'1318TOQ0015,53K029,Programas de adquisiciones
+'1318TOQ0016,53K029,Programas de adquisiciones
+'1318TOQ0028,53K001,Proyectos de infraestructura económica de electricidad
+'1318TOQ0034,18K029,Programas de adquisiciones
+'1318TOQ0037,53K001,Proyectos de infraestructura económica de electricidad
+'1318TOQ0041,53K001,Proyectos de infraestructura económica de electricidad
+'1318TOQ0050,18K001,Proyectos de infraestructura económica de electricidad
+'1318TOQ0054,53K001,Proyectos de infraestructura económica de electricidad
+'1321W3N0001,21K027,Mantenimiento de infraestructura
+'1321W3N0006,21K021,Proyectos de infraestructura de turismo
+'133890S0006,38K010,Proyectos de infraestructura social de ciencia y tecnología
+'133891A0004,38K010,Proyectos de infraestructura social de ciencia y tecnología
+'1406G2T0001,06K027,Mantenimiento de infraestructura
+'14071320005,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'14071320009,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'14071320010,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'14071320011,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'14071320013,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'14071320014,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'14092100005,09K003,Proyectos de construcción de carreteras
+'14096240002,09K003,Proyectos de construcción de carreteras
+'14096270033,09K003,Proyectos de construcción de carreteras
+'14096270033,09K048,Servicios relacionados para la liberación del derecho de vía
+'14096340001,09K003,Proyectos de construcción de carreteras
+'14096340001,09K048,Servicios relacionados para la liberación del derecho de vía
+'14096350032,09K003,Proyectos de construcción de carreteras
+'14096350032,09K048,Servicios relacionados para la liberación del derecho de vía
+'1409C000001,09E010,Servicios de ayudas a la navegación aérea
+'1409J3A0003,09K004,Proyectos de construcción de puertos
+'1409J3F0006,09K004,Proyectos de construcción de puertos
+'1409J3L0003,09K040,Proyectos de Infraestructura Ferroviaria
+'1409JZL0005,09K005,Proyectos de construcción de aeropuertos
+'1409JZL0005,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
+'14132160011,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'14132160016,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'14132160017,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'14132160027,13K019,Proyectos de infraestructura gubernamental de seguridad nacional
+'14132160036,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'14132160037,13A004,"Adquisición, construcción, reparación y mantenimiento de unidades navales"
+'1416B000002,16K141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado
+'1418T4I0003,52K029,Programas de adquisiciones
+'1418T4I0004,52K029,Programas de adquisiciones
+'1418T4I0006,52K029,Programas de adquisiciones
+'1418T4I0007,52K029,Programas de adquisiciones
+'1418T4I0011,52K027,Mantenimiento de infraestructura
+'1418T4I0012,52K027,Mantenimiento de infraestructura
+'1418T4I0013,52K029,Programas de adquisiciones
+'1418T4I0016,52K029,Programas de adquisiciones
+'1418T4I0024,52K029,Programas de adquisiciones
+'1418T4I0025,52K029,Programas de adquisiciones
+'1418T4M0004,52K028,Estudios de preinversión
+'1418T4M0007,52K029,Programas de adquisiciones
+'1418T4M0014,52K027,Mantenimiento de infraestructura
+'1418T4M0031,52K029,Programas de adquisiciones
+'1418T4M0034,52K029,Programas de adquisiciones
+'1418T4M0035,52K029,Programas de adquisiciones
+'1418T4M0037,52K029,Programas de adquisiciones
+'1418T4M0038,52K029,Programas de adquisiciones
+'1418T4M0040,52K029,Programas de adquisiciones
+'1418T4M0041,52K029,Programas de adquisiciones
+'1418T4M0043,52K029,Programas de adquisiciones
+'1418T4M0044,52K029,Programas de adquisiciones
+'1418T4M0054,52K028,Estudios de preinversión
+'1418T4M0057,52K036,Conservación de infraestructura marítimo-portuaria
+'1418T4M0064,52K028,Estudios de preinversión
+'1418T4N0002,52K027,Mantenimiento de infraestructura
+'1418T4N0003,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1418T4N0004,52K027,Mantenimiento de infraestructura
+'1418T4N0005,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1418T4N0006,52K029,Programas de adquisiciones
+'1418T4N0007,52K027,Mantenimiento de infraestructura
+'1418T4N0009,52K027,Mantenimiento de infraestructura
+'1418T4N0013,52K029,Programas de adquisiciones
+'1418T4N0014,52K027,Mantenimiento de infraestructura
+'1418T4N0022,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1418T4N0023,52K030,Otros proyectos de infraestructura
+'1418T4N0024,52K002,Proyectos de infraestructura económica de hidrocarburos
+'1418T4N0025,52K030,Otros proyectos de infraestructura
+'1418T4O0002,52K027,Mantenimiento de infraestructura
+'1418T4O0004,52K027,Mantenimiento de infraestructura
+'1418T4O0005,52K027,Mantenimiento de infraestructura
+'1418T4O0006,52K027,Mantenimiento de infraestructura
+'1418T4O0007,52K027,Mantenimiento de infraestructura
+'1418T4O0008,52K027,Mantenimiento de infraestructura
+'1418T4O0009,52K027,Mantenimiento de infraestructura
+'1418T4O0010,52K027,Mantenimiento de infraestructura
+'1418T4O0012,52K029,Programas de adquisiciones
+'1418T4O0013,52K027,Mantenimiento de infraestructura
+'1418T4O0014,52K027,Mantenimiento de infraestructura
+'1418T4O0016,52K027,Mantenimiento de infraestructura
+'1418T4O0017,52K029,Programas de adquisiciones
+'1418T4O0018,52K027,Mantenimiento de infraestructura
+'1418T4O0021,52K027,Mantenimiento de infraestructura
+'1418T4O0022,52K027,Mantenimiento de infraestructura
+'1418T4O0026,52K027,Mantenimiento de infraestructura
+'1418T4O0028,52K027,Mantenimiento de infraestructura
+'1418T4O0030,52K027,Mantenimiento de infraestructura
+'1418T4O0031,52K027,Mantenimiento de infraestructura
+'1418T4O0035,52K029,Programas de adquisiciones
+'1418TOQ0002,53K001,Proyectos de infraestructura económica de electricidad
+'1418TOQ0003,53K027,Mantenimiento de infraestructura
+'1418TOQ0004,53K027,Mantenimiento de infraestructura
+'1418TOQ0008,53K027,Mantenimiento de infraestructura
+'1418TOQ0009,53K027,Mantenimiento de infraestructura
+'1418TOQ0010,53K027,Mantenimiento de infraestructura
+'1418TOQ0011,53K027,Mantenimiento de infraestructura
+'1418TOQ0012,53K027,Mantenimiento de infraestructura
+'1418TOQ0015,53K027,Mantenimiento de infraestructura
+'1418TOQ0016,53K027,Mantenimiento de infraestructura
+'1418TOQ0019,53K027,Mantenimiento de infraestructura
+'1418TOQ0020,53K029,Programas de adquisiciones
+'1418TOQ0041,53K001,Proyectos de infraestructura económica de electricidad
+'1418TOQ0060,53K029,Programas de adquisiciones
+'1418TOQ0066,53K001,Proyectos de infraestructura económica de electricidad
+'1418TOQ0069,53K001,Proyectos de infraestructura económica de electricidad
+'1418TOQ0070,53K029,Programas de adquisiciones
+'1418TOQ0071,53K001,Proyectos de infraestructura económica de electricidad
+'1418TOQ0073,53K027,Mantenimiento de infraestructura
+'1418TOQ0074,53K029,Programas de adquisiciones
+'1421W3N0004,21K021,Proyectos de infraestructura de turismo
+'143890Q0002,38K010,Proyectos de infraestructura social de ciencia y tecnología
+'1450GYR0058,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1450GYR0087,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1451GYN0010,51K011,Proyectos de infraestructura social.
+'15071320001,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'15096210002,09K003,Proyectos de construcción de carreteras
+'15096250001,09K003,Proyectos de construcción de carreteras
+'15096270004,09K003,Proyectos de construcción de carreteras
+'15096390001,09K003,Proyectos de construcción de carreteras
+'1509J3A0001,09K004,Proyectos de construcción de puertos
+'1509J3D0001,09K027,Mantenimiento de infraestructura
+'1509J3E0004,09K027,Mantenimiento de infraestructura
+'1510K2N0004,10B001,"Producción, transportación y comercialización de sal marina"
+'1510K8V0001,10K025,Proyectos de inmuebles (oficinas administrativas)
+'1510LAU0003,10K028,Estudios de Preinversión
+'1510LAU0004,10K028,Estudios de Preinversión
+'1510LAU0005,10K028,Estudios de Preinversión
+'1510LAU0006,10K028,Estudios de Preinversión
+'1510LAU0007,10K028,Estudios de Preinversión
+'1510LAU0008,10K028,Estudios de Preinversión
+'1510LAU0009,10K028,Estudios de Preinversión
+'1510LAU0011,10K028,Estudios de Preinversión
+'1510LAU0012,10K028,Estudios de Preinversión
+'1511L4J0006,11K009,Proyectos de infraestructura social del sector educativo
+'15132160012,13K012,Proyectos de infraestructura social de asistencia y seguridad social
+'15132160013,13A001,Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales
+'15133110001,13K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1516B000071,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1518T0K0001,18K029,Programas de adquisiciones
+'1518TOM0008,18K001,Proyectos de infraestructura económica de electricidad
+'1518TOM0009,18K029,Programas de adquisiciones
+'1518TOM0010,18K029,Programas de adquisiciones
+'1518TOQ0001,53K001,Proyectos de infraestructura económica de electricidad
+'1518TOQ0002,53K029,Programas de adquisiciones
+'1518TOQ0004,53K027,Mantenimiento de infraestructura
+'1518TOQ0005,53K001,Proyectos de infraestructura económica de electricidad
+'153890W0001,38K010,Proyectos de infraestructura social de ciencia y tecnología
+'1550GYR0002,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0005,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0015,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0024,50K027,Mantenimiento de infraestructura
+'1550GYR0025,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0027,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0029,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0032,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0033,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0034,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0036,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0046,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0047,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0050,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0051,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0052,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0055,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0056,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0057,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1550GYR0059,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'16071320006,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'1607HXA0008,07K027,Mantenimiento de infraestructura
+'1607HXA0014,07K027,Mantenimiento de infraestructura
+'1607HXA0016,07K027,Mantenimiento de infraestructura
+'1607HXA0018,07K027,Mantenimiento de infraestructura
+'1607HXA0019,07K027,Mantenimiento de infraestructura
+'1607HXA0020,07K027,Mantenimiento de infraestructura
+'1607HXA0022,07K027,Mantenimiento de infraestructura
+'1607HXA0024,07K027,Mantenimiento de infraestructura
+'1607HXA0029,07K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1607HXA0030,07K027,Mantenimiento de infraestructura
+'1607HXA0036,07K012,Proyectos de infraestructura social de asistencia y seguridad social
+'16096310007,09K003,Proyectos de construcción de carreteras
+'16096310007,09K048,Servicios relacionados para la liberación del derecho de vía
+'16096510001,09K003,Proyectos de construcción de carreteras
+'16096510001,09K048,Servicios relacionados para la liberación del derecho de vía
+'1609J2T0001,09K004,Proyectos de construcción de puertos
+'1609J2T0002,09K027,Mantenimiento de infraestructura
+'1609J3A0003,09K004,Proyectos de construcción de puertos
+'1609J3A0004,09K004,Proyectos de construcción de puertos
+'1609J3B0006,09K004,Proyectos de construcción de puertos
+'1609JZL0001,09K028,Estudios de preinversión
+'1610K2N0011,10K027,Mantenimiento de Infraestructura
+'1611A2M0006,11K009,Proyectos de infraestructura social del sector educativo
+'1611A3Q0033,11K009,Proyectos de infraestructura social del sector educativo
+'1612N000001,12E023,Atención a la Salud
+'1612N000002,12E023,Atención a la Salud
+'1612NAW0003,12E023,Atención a la Salud
+'1612NBG0002,12E023,Atención a la Salud
+'1612NCD0005,12K027,Mantenimiento de infraestructura
+'1612NCG0004,12K027,Mantenimiento de infraestructura
+'16133110002,13K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1616B000004,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1616B000007,16K007,"Infraestructura de agua potable, alcantarillado y saneamiento"
+'1616B000093,16K129,Infraestructura para la Protección de Centros de Población y Áreas Productivas
+'1618TOM0001,18K029,Programas de adquisiciones
+'1618TON0001,18K002,Proyectos de infraestructura económica de hidrocarburos
+'1618TON0002,18E010,"Distribución de petróleo, gas, petrolíferos y petroquímicos"
+'16389ZU0001,38E003,"Investigación científica, desarrollo e innovación"
+'1650GYR0001,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0002,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0003,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0004,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0005,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0010,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0015,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0016,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0017,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0018,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0019,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0020,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0021,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0023,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0024,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0025,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0026,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0027,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0028,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0031,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0032,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0034,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0036,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0037,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0040,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0041,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0042,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0043,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0044,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0045,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0046,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0047,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0048,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0049,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0051,50K029,Programas de adquisiciones
+'1650GYR0052,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0058,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0061,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0062,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0066,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0067,50K029,Programas de adquisiciones
+'1650GYR0069,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0074,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0075,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0076,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0078,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0079,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0082,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0083,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0084,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0085,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0086,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0087,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0088,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0091,50K029,Programas de adquisiciones
+'1650GYR0093,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0094,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0103,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0105,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0108,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0109,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0118,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0119,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0121,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0124,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0125,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0127,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0128,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0129,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0130,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1650GYR0131,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1651GYN0006,51K011,Proyectos de infraestructura social.
+'1651GYN0006,51K027,Mantenimiento de Infraestructura
+'1651GYN0007,51K011,Proyectos de infraestructura social.
+'1651GYN0007,51K027,Mantenimiento de Infraestructura
+'1651GYN0011,51K011,Proyectos de infraestructura social.
+'1651GYN0017,51K011,Proyectos de infraestructura social.
+'1651GYN0018,51K011,Proyectos de infraestructura social.
+'1651GYN0019,51K011,Proyectos de infraestructura social.
+'1651GYN0020,51K011,Proyectos de infraestructura social.
+'1651GYN0021,51K011,Proyectos de infraestructura social.
+'1651GYN0022,51K011,Proyectos de infraestructura social.
+'1651GYN0023,51K011,Proyectos de infraestructura social.
+'1651GYN0024,51K011,Proyectos de infraestructura social.
+'1651GYN0027,51K011,Proyectos de infraestructura social.
+'17071320001,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'17071320003,07A003,Operación y desarrollo de la Fuerza Aérea Mexicana
+'1708JAG0001,08E006,Generación de Proyectos de Investigación
+'17096240001,09K003,Proyectos de construcción de carreteras
+'17096240001,09K048,Servicios relacionados para la liberación del derecho de vía
+'17096310001,09K003,Proyectos de construcción de carreteras
+'17096310001,09K048,Servicios relacionados para la liberación del derecho de vía
+'17096310003,09K003,Proyectos de construcción de carreteras
+'17096310003,09K048,Servicios relacionados para la liberación del derecho de vía
+'17096310004,09K003,Proyectos de construcción de carreteras
+'17096310004,09K048,Servicios relacionados para la liberación del derecho de vía
+'17096440002,09K003,Proyectos de construcción de carreteras
+'17096440002,09K048,Servicios relacionados para la liberación del derecho de vía
+'1709J2R0001,09K027,Mantenimiento de infraestructura
+'1709J2Y0001,09K004,Proyectos de construcción de puertos
+'1709J3A0001,09K004,Proyectos de construcción de puertos
+'1709J3A0004,09K004,Proyectos de construcción de puertos
+'1711L4J0001,11K027,Mantenimiento de infraestructura
+'1711L4J0002,11K027,Mantenimiento de infraestructura
+'1718TON0001,18E010,"Distribución de petróleo, gas, petrolíferos y petroquímicos"
+'1718TON0002,18E010,"Distribución de petróleo, gas, petrolíferos y petroquímicos"
+'1750GYR0001,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1750GYR0002,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1750GYR0003,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1750GYR0005,50K012,Proyectos de infraestructura social de asistencia y seguridad social
+'1750GYR0007,50K027,Mantenimiento de infraestructura
+'1751GYN0001,51K011,Proyectos de infraestructura social.
+'1751GYN0001,51K027,Mantenimiento de Infraestructura
+'1751GYN0002,51K011,Proyectos de infraestructura social.
+'1751GYN0003,51K011,Proyectos de infraestructura social.
+'1751GYN0005,51K011,Proyectos de infraestructura social.
+'1751GYN0006,51K011,Proyectos de infraestructura social.
+'1751GYN0010,51K011,Proyectos de infraestructura social.
