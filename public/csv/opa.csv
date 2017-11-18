@@ -1532,7 +1532,7 @@ key,name,ramo,unidad,state,lat,lng,advance,monto_total_inversion,ciclo,classific
 '17071410003,Adquisición de mobiliario y equipo de oficina para la S.D.N. 2017.,7,Dirección General de Intendencia,9,0,0,50.00,23000000.00,2017,,5692073.00
 '09096340018,Tepic - Aguascalientes; Tramo: Límite de Estados Nayarit/Jalisco - Bolaños.,9,Centro SCT Jalisco,14,21.840412,-103.976371,91.40,282667794.00,2017,,0.00
 '09096340024,"Sayula  Tapalpa  San Gabriel  - Minatitlán, Col. Tr: Sayula  Punta de Agua - Tapalpa.",9,Centro SCT Jalisco,14,19.884375,-103.608293,43.66,190300913.00,2017,,14316776.00
-'09096350016,"Chapa de Mota, Tr. San Francisco de Las Tablas del Km. 0+000 al Km. 2+580.",9,Centro SCT México,15,1,11,0.00,32271110.00,2017,,44624.00
+'09096350016,"Chapa de Mota, Tr. San Francisco de Las Tablas del Km. 0+000 al Km. 2+580.",9,Centro SCT México,15,0,0,0.00,32271110.00,2017,,44624.00
 '09096360006,Tepehuaje-Al Zangarro,9,Centro SCT Michoacán,16,19.390637,-101.230597,95.35,26956116.00,2017,,53752.00
 '09096360019,Churumuco-Poturo,9,Centro SCT Michoacán,16,18.662637,-101.647441,73.33,84675611.00,2017,,0.00
 '09096360028,"San Pedro-Los Brasiles, Mpio. San Lucas",9,Centro SCT Michoacán,16,18.52605,-100.789305,99.90,44978242.00,2017,,0.00
