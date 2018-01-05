@@ -124,11 +124,11 @@ class MapsApi extends Controller
   }
 
   public function entidadesv2(Request $request){
-    $name   = $request->input("NOMBRE_PROYECTO");
-    $state  = $request->input("ID_ENTIDAD_FEDERATIVA");
-    $city   = $request->input("GFSHCPCityId");
-    $branch = $request->input("ID_RAMO");
-    $year   = $request->input("CICLO_RECURSO");
+    $name   = str_replace("'", "", $request->input("NOMBRE_PROYECTO") );
+    $state  = str_replace("'", "", $request->input("ID_ENTIDAD_FEDERATIVA") );
+    $city   = str_replace("'", "", $request->input("GFSHCPCityId") );
+    $branch = str_replace("'", "", $request->input("ID_RAMO") );
+    $year   = str_replace("'", "", $request->input("CICLO_RECURSO") );
     $page   = $request->input("page") >= 0 ? $request->input("page") : 0;
     $size   = $request->input("pageSize") ? $request->input("pageSize") : self::PAGE_SIZE;
 
@@ -248,7 +248,8 @@ class MapsApi extends Controller
       "results"  => $response,
       "page"     => $page,
       "pageSize" => $size,
-      "pages"    => ceil($total/$size)
+      "pages"    => ceil($total/$size),
+      "request"  => $request->all()
     ];
 
     return response()->json($_response)->header("Access-Control-Allow-Origin", "*");
